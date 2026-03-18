@@ -155,6 +155,25 @@
 - **Besonderheit:** Braucht Partnerunternehmen
 - **URL:** https://www.hwr-berlin.de/
 
+### 15b. Polizei Berlin — Duales Studium Informatik B.Sc. (über HWR Berlin)
+- **Ort:** Berlin
+- **Typ:** Duales Studium bei der Polizei, Theorie an der HWR Berlin
+- **NC:** Eigenes Auswahlverfahren (kein klassischer NC)
+- **Dauer:** 3 Jahre (6 Semester), Start 1. Oktober
+- **Gehalt:** 1.400€/Monat + Hauptstadtzulage + Jahressonderzahlung + Semesterbeitrag erstattet
+- **Übernahmegarantie** nach Abschluss!
+- **Kein Sporttest, kein Führerschein nötig**
+- **Voraussetzungen:** Abitur/Fachhochschulreife, gute Mathe-Kenntnisse, gutes Deutsch + Englisch
+- **Bewerbung:** ca. 1 Jahr vorher über Karriereportal
+- **URL:** https://110prozent.berlin.de/einstiegsmoeglichkeiten/duales-studium/duales-studium-informatik/
+- **Was macht man da?**
+  - Softwareentwicklung für polizeiinterne Systeme
+  - IT-Planung für ~2.500 Polizeifahrzeuge (Kommunikationstechnik)
+  - Netzwerkplanung, Datenschutz, IT-Sicherheit
+  - Webanwendungen und Datenbanken
+  - Arbeitsort: Direktion Zentraler Service oder LKA (Landeskriminalamt)
+  - Ggf. auch IT-Forensik / Cybercrime
+
 ### 16. IU Duales Studium — Informatik B.Sc. (dual)
 - **Ort:** Hamburg, Berlin, Hannover, Bremen + virtueller Campus
 - **Typ:** Private Fachhochschule

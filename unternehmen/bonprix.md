@@ -1,0 +1,1 @@
+bonprix ist ein großes Modeunternehmen mit Sitz in Hamburg und gehört zur Otto Group. Mit rund 3.700 Mitarbeitern weltweit und einem Umsatz von etwa 1,5 Milliarden Euro erreicht bonprix rund 15 Millionen aktive Kunden in etwa 30 Ländern. Über 90 Prozent des Umsatzes werden online erzielt, womit bonprix zu den größten Mode-Online-Shops in Deutschland zählt.

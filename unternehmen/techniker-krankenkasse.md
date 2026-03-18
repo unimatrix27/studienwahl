@@ -1,0 +1,1 @@
+Die Techniker Krankenkasse (TK) ist mit fast 12 Millionen Versicherten die größte gesetzliche Krankenversicherung Deutschlands und hat ihren Hauptsitz in Hamburg. In Hamburg allein arbeiten rund 4.400 Mitarbeiter. Die TK ist bekannt für ihre starke Digitalisierung, betreibt eigene Apps und Online-Services und investiert stark in IT-Infrastruktur und Softwareentwicklung.

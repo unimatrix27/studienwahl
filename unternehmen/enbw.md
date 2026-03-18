@@ -1,0 +1,1 @@
+EnBW (Energie Baden-Württemberg) ist mit Sitz in Karlsruhe der drittgrößte Energieversorger Deutschlands und beschäftigt rund 27.000 Mitarbeiter. Das Unternehmen erzeugt und vertreibt Strom und Gas, betreibt Stromnetze und ist Deutschlands größter Anbieter von E-Ladeinfrastruktur. EnBW investiert stark in erneuerbare Energien, insbesondere in On- und Offshore-Windparks.

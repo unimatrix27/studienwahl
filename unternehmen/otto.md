@@ -1,0 +1,1 @@
+Otto ist einer der größten Online-Händler Europas mit Sitz in Hamburg. Das Unternehmen verkauft Mode, Möbel und Elektronik und betreibt eine der größten E-Commerce-Plattformen Deutschlands. Die Otto Group umfasst über 100 Unternehmen weltweit, erzielte zuletzt rund 16 Milliarden Euro Umsatz und hat eine große eigene IT-Abteilung, die ihre Systeme selbst entwickelt.

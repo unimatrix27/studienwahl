@@ -1,0 +1,1 @@
+Bayer ist ein globaler Life-Science-Konzern mit Hauptsitz in Leverkusen und rund 93.000 Mitarbeitern weltweit. Das Unternehmen ist in drei Sparten aufgeteilt: Pharma, Consumer Health und Crop Science (Agrarchemie). Bayer ist unter anderem für Aspirin und die Übernahme von Monsanto bekannt und investiert jährlich rund 5,8 Milliarden Euro in Forschung und Entwicklung.

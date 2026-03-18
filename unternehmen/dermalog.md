@@ -1,0 +1,1 @@
+DERMALOG ist Deutschlands größter Biometrie-Hersteller mit Sitz in Hamburg, gegründet 1995. Das Unternehmen entwickelt Fingerabdruck-, Gesichts- und Iriserkennungssysteme, biometrische Ausweisdokumente und Grenzkontrollsysteme. Über 150 Behörden und mehr als 40 Banken in über 100 Ländern setzen die Technologie von DERMALOG ein.

@@ -1,0 +1,1 @@
+deepblue networks ist eine Kommunikations- und Digitalagentur mit Sitz in Hamburg, gegründet 2001, mit über 100 Mitarbeitern. Die Agentur entwickelt integrierte Kommunikationskampagnen, digitale Produkte und Markenerlebnisse für Kunden wie Bitburger, Gerolsteiner, Swatch und Unilever. deepblue gehört zur WPP-Gruppe, einem der weltweit größten Werbe- und Kommunikationskonzerne.

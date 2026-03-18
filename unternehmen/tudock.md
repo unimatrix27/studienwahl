@@ -1,0 +1,1 @@
+Tudock ist eine inhabergeführte E-Commerce-Agentur aus der Hamburger Speicherstadt, gegründet 2004. Das Unternehmen entwickelt Online-Shops und digitale Verkaufsarchitekturen für mittelständische und große Unternehmen, mit Expertise in Shopify, Shopware, Magento und Symfony. Zu den Kunden zählen unter anderem Schmidt Spiele und Prediger Lichtberater.
