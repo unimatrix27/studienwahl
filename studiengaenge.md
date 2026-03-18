@@ -10,11 +10,11 @@
 ### 1. HTW Berlin — Angewandte Informatik B.Sc.
 - **Ort:** Berlin
 - **Typ:** Fachhochschule
-- **NC:** Zulassungsfrei
+- **NC:** Zulassungsbeschränkt (NC-Wert auf Webseite prüfen!)
 - **Regelstudienzeit:** 6 Semester
 - **Besonderheit:** Praxisnah, Spezialisierungen in Software Engineering, Mobile Systems, Data Science
 - **URL:** https://ai.htw-berlin.de/
-- **Bewerbung:** https://www.htw-berlin.de/studium/bewerbung/bachelor/
+- **Bewerbung:** ab 15.05. — https://www.htw-berlin.de/studium/bewerbung/bachelor/
 
 ### 2. Hochschule Hannover — Angewandte Informatik B.Sc.
 - **Ort:** Hannover
@@ -32,7 +32,7 @@
 - **Regelstudienzeit:** 6 Semester
 - **Besonderheit:** Schwerpunkte u.a. Data Science, Robot Vision, IoT, IT-Sicherheit
 - **URL:** https://www.haw-hamburg.de/bachelor-angewandte-informatik/
-- **Bewerbung:** Frist 15.07.
+- **Bewerbung:** WiSe: 01.06. – 15.07.
 
 ### 4. HAW Hamburg — European Computer Science B.Sc.
 - **Ort:** Hamburg
@@ -41,7 +41,7 @@
 - **Regelstudienzeit:** 6 Semester
 - **Besonderheit:** Internationaler Informatik-Studiengang
 - **URL:** https://www.haw-hamburg.de/
-- **Bewerbung:** Frist 15.07.
+- **Bewerbung:** WiSe: 01.06. – 15.07.
 
 ### 5. Hochschule Flensburg — Angewandte Informatik B.Sc.
 - **Ort:** Flensburg
@@ -124,6 +124,29 @@
 - **Besonderheit:** Braucht Partnerunternehmen
 - **URL:** https://www.haw-hamburg.de/bachelor-angewandte-informatik/
 - **Bewerbung:** Frist 15.07.
+- **Infoveranstaltung DUAL (Technik & Informatik): 20.04.2026 um 17:00 Uhr — Anmeldung erfolgt!**
+- **Firmenportal:** https://www.haw-hamburg.de/ti-dual/firmenportal-dual/
+
+**Partnerunternehmen HAW Hamburg (Angewandte Informatik dual):**
+
+| Unternehmen | Studiengang | Kontakt / Info |
+|-------------|-------------|----------------|
+| ADventas Consulting GmbH | Angewandte Informatik | |
+| berry2b GmbH | Angewandte Informatik | |
+| classix Software GmbH | Angewandte Informatik | |
+| Crane Payment Innovations GmbH | Angew. Informatik + Inf. Techn. Systeme | |
+| Dataport AöR | Angewandte Informatik | |
+| deepblue networks AG | Angewandte Informatik | |
+| Deutsches Elektronen-Synchrotron DESY | Angewandte Informatik | |
+| EnBW Energie Baden-Württemberg AG | Angewandte Informatik | Katharina Götz, katharina.goetz@enbw.com, Bewerbung ab Juni |
+| SIGNAL IDUNA Asset Management GmbH | Angewandte Informatik | |
+| Studio Hamburg MCI GmbH | Angewandte Informatik | |
+| SYNIOS Document & Workflow Management GmbH | Angewandte Informatik | |
+| Telefónica Germany GmbH & Co. OHG | Angew. Informatik + Wirtschaftsinformatik | |
+| TUDOCK GmbH | Angewandte Informatik | |
+| Vibracoustic SE & Co. KG | Angew. Informatik + Inf. Techn. Systeme | |
+| Werum Software & Systems AG | Angew. Informatik + Inf. Techn. Systeme | |
+| yes!devs GmbH | Angewandte Informatik | |
 
 ### 15. HWR Berlin — Informatik (dual) B.Sc.
 - **Ort:** Berlin
