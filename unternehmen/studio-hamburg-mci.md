@@ -1,1 +1,3 @@
 Studio Hamburg MCI ist ein Medientechnik-Dienstleister aus Hamburg mit rund 67 Mitarbeitern, gegründet 1977 als Teil der Studio Hamburg Gruppe. Das Unternehmen plant, baut und betreibt komplette Studios und IT-basierte Mediensysteme für Rundfunk, Sport-TV und Unternehmensfernsehen. MCI deckt den gesamten Lebenszyklus ab, von der Beratung über die Integration bis zum laufenden Betrieb und Support.
+
+Informatiker bei Studio Hamburg MCI planen und integrieren IP-basierte Broadcast-Systeme, konfigurieren Video-Server, Playout-Systeme und Regie-Infrastrukturen und entwickeln Softwarelösungen für die Medienproduktion. Die Arbeit verbindet klassische IT (Netzwerke, Server, Storage) mit der spezialisierten Welt der audiovisuellen Medientechnik und Live-TV-Produktion.

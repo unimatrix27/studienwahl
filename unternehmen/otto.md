@@ -1,1 +1,3 @@
 Otto ist einer der größten Online-Händler Europas mit Sitz in Hamburg. Das Unternehmen verkauft Mode, Möbel und Elektronik und betreibt eine der größten E-Commerce-Plattformen Deutschlands. Die Otto Group umfasst über 100 Unternehmen weltweit, erzielte zuletzt rund 16 Milliarden Euro Umsatz und hat eine große eigene IT-Abteilung, die ihre Systeme selbst entwickelt.
+
+Informatiker bei Otto arbeiten an der E-Commerce-Plattform, entwickeln Empfehlungsalgorithmen, betreiben Self-Contained Systems über eine eigene CD-Pipeline und verantworten den gesamten Lebenszyklus ihrer Anwendungen in AWS. Der Tech-Stack ist bewusst heterogen und variiert von Team zu Team; gearbeitet wird hochagil nach dem Prinzip "Test & Learn".

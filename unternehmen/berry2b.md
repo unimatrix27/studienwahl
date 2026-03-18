@@ -1,1 +1,3 @@
 berry2b ist ein 2019 gegründetes Startup aus Lüneburg (bei Hamburg), das eine App entwickelt, die Schulplaner-Funktionen mit einem Karrierenetzwerk für Schüler kombiniert. Über 80.000 Schüler nutzen die App, und mehr als 700 Unternehmen präsentieren dort ihre Ausbildungsangebote. Das Unternehmen hilft Firmen beim Azubi-Recruiting und veranstaltet Berufsorientierungs-Events.
+
+Informatiker bei berry2b entwickeln die native iOS- und Android-App weiter, bauen Backend-Services und Schnittstellen zu Partnerunternehmen und arbeiten an datengetriebenen Features wie dem Matching zwischen Schülern und Ausbildungsplätzen. Als kleines Startup-Team hat man viel Eigenverantwortung und kurze Wege von der Idee bis zum Release.

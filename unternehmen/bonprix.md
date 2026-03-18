@@ -1,1 +1,3 @@
 bonprix ist ein großes Modeunternehmen mit Sitz in Hamburg und gehört zur Otto Group. Mit rund 3.700 Mitarbeitern weltweit und einem Umsatz von etwa 1,5 Milliarden Euro erreicht bonprix rund 15 Millionen aktive Kunden in etwa 30 Ländern. Über 90 Prozent des Umsatzes werden online erzielt, womit bonprix zu den größten Mode-Online-Shops in Deutschland zählt.
+
+Informatiker bei bonprix entwickeln die E-Commerce-Plattform mit Java, Spring Boot, PostgreSQL und Apache Kafka, betreuen Microservices in Docker-Containern und bauen CI/CD-Pipelines mit Jenkins und GitLab. Weitere Teams arbeiten an IT-Operations mit Monitoring-Tools wie Splunk, Dynatrace und Grafana sowie an datengetriebenen Features für Personalisierung und Sortimentssteuerung.

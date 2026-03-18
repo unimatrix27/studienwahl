@@ -1,1 +1,3 @@
 SYNIOS ist ein Softwareunternehmen aus Hamburg mit rund 25 Mitarbeitern, das seit 1997 Lösungen für Enterprise Content Management (ECM) und Dokumenten-Workflow entwickelt. Ihr Produkt SE PAVAS wird in über 80 Krankenhäusern eingesetzt. SYNIOS bedient neben dem Gesundheitswesen auch Kunden in der öffentlichen Verwaltung und anderen Branchen und ist an Forschungsprojekten wie 5GMedCamp beteiligt.
+
+Informatiker bei SYNIOS entwickeln das ECM-Produkt SE PAVAS mit Microsoft-Technologien und Angular weiter, programmieren Dokumenten-Workflows für Krankenhäuser und Behörden und passen die Software an kundenspezifische Prozesse an. Da das Team klein ist, arbeitet man oft fullstack und hat direkten Kontakt zu den Anwendern in den Kliniken.

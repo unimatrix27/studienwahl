@@ -1,1 +1,3 @@
 yes!devs ist eine Softwareagentur mit Standorten in Hamburg und Valencia, die individuelle Software, Online-Shops und Schnittstellen entwickelt. Das Unternehmen hat in den letzten sieben Jahren über 260 Projekte umgesetzt und arbeitet mit Technologien wie Shopware, Shopify, WooCommerce und AWS. yes!devs bietet den gesamten Entwicklungszyklus von der Konzeption über die Umsetzung bis zum DevOps-Betrieb an.
+
+Informatiker bei yes!devs arbeiten als Full-Stack-Entwickler an Cloud-nativen Anwendungen mit Microservices-Architektur, entwickeln E-Commerce-Shops mit Shopware und Shopify und bauen individuelle Webanwendungen mit Laravel, React, Vue und Symfony. Der DevOps-Betrieb auf AWS gehört ebenso zum Alltag wie die Arbeit mit React Native für mobile Apps.

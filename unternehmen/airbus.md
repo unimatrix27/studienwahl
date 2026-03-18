@@ -1,1 +1,3 @@
 Airbus ist einer der weltweit größten Flugzeughersteller mit europäischem Hauptsitz in Toulouse und einem der wichtigsten Produktionsstandorte in Hamburg-Finkenwerder. Am Standort Hamburg arbeiten rund 12.500 Mitarbeiter an der Endmontage der A320-Familie sowie an Rumpfsektionen für A330 und A350. Hamburg-Finkenwerder ist die drittgrößte zivile Flugzeugproduktionsstätte der Welt nach Seattle und Toulouse.
+
+Informatiker bei Airbus arbeiten als Software Engineers an Avionik-Systemen, entwickeln als IT-Architekten die Tool-Landschaft für die Flugzeugkonstruktion und betreuen Data-Analytics- und KI-Anwendungen für die Fertigung. Der Digital-&-IT-Bereich bietet spezialisierte Karrierepfade mit Zertifizierungen in Cloud, SAP und Cybersecurity.

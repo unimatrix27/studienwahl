@@ -1,1 +1,3 @@
 Crane Payment Innovations (CPI) ist ein internationaler Hersteller von Bezahlsystemen mit deutschem Standort in Buxtehude bei Hamburg. Das Unternehmen gehört zum börsennotierten US-Konzern Crane NXT und entwickelt Münz- und Banknotenprüfer, Bezahlautomaten und Softwarelösungen für Automaten, Kioske und den Einzelhandel. CPI ist einer der weltweit führenden Anbieter im Bereich Payment-Automation.
+
+Informatiker bei CPI in Buxtehude entwickeln Embedded-Firmware für Mikrocontroller in Münz- und Banknotenprüfern, programmieren die Steuerungssoftware für Bezahlautomaten und arbeiten an .NET-basierten Anwendungen für die Geräteanbindung und -konfiguration. Dazu kommen Aufgaben in der Bildverarbeitung und Sensorik zur Echtheitsprüfung von Banknoten.

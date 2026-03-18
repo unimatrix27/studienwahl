@@ -1,1 +1,3 @@
 Bayer ist ein globaler Life-Science-Konzern mit Hauptsitz in Leverkusen und rund 93.000 Mitarbeitern weltweit. Das Unternehmen ist in drei Sparten aufgeteilt: Pharma, Consumer Health und Crop Science (Agrarchemie). Bayer ist unter anderem für Aspirin und die Übernahme von Monsanto bekannt und investiert jährlich rund 5,8 Milliarden Euro in Forschung und Entwicklung.
+
+Informatiker bei Bayer entwickeln digitale Lösungen in den Bereichen Data Science, Advanced Analytics und Computational Science, etwa zur Analyse klinischer Studiendaten oder zur Optimierung landwirtschaftlicher Erträge mit KI. Eingesetzt werden u.a. Python, R und Cloud-basierte Datenplattformen, und die Arbeit findet häufig an der Schnittstelle zwischen IT und naturwissenschaftlicher Forschung statt.

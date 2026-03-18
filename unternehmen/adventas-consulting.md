@@ -1,1 +1,3 @@
 ADventas Consulting ist eine kleine SAP-Beratungsfirma mit Sitz in Hamburg, gegründet 2006, mit etwa 2-10 Mitarbeitern. Das Unternehmen ist spezialisiert auf SAP-Beratung für Unternehmen im globalen Rohstoff- und Konsumgüterhandel und bietet IT-Services, Projektmanagement und Schulungen an. Schwerpunkte liegen auf S/4HANA und Global Trade Management.
+
+Informatiker bei ADventas arbeiten an der Implementierung, Weiterentwicklung und dem Betrieb von SAP-Systemen für den globalen Rohstoffhandel, insbesondere S/4HANA und Global Trade Management. Dabei übernehmen sie sowohl technische Entwicklung (ABAP, Fiori) als auch IT-Projektmanagement und Customizing direkt beim Kunden.

@@ -1,1 +1,3 @@
 Vodafone Deutschland ist eines der größten Telekommunikationsunternehmen in Deutschland mit Sitz in Düsseldorf und über 15.000 Mitarbeitern. Das Unternehmen betreibt das D2-Mobilfunknetz sowie ein Kabelfasernetz und bietet Mobilfunk, 5G, Breitband-Internet, Festnetz und TV-Dienste an. Vodafone erreicht über 24 Millionen Haushalte mit Gigabit-Geschwindigkeit und hat mehr als 78 Millionen Anschlüsse in Deutschland.
+
+In der rund 1.500 Personen starken IT-Abteilung in Düsseldorf entwickeln Informatiker digitale Produkte für Mobilfunk, IoT und Breitband, arbeiten an 5G-Netzinfrastruktur, Big-Data-Anwendungen und KI-gestützten Services. Weitere Schwerpunkte sind Cloud- und Hosting-Lösungen, Augmented-Reality-Anwendungen und die Entwicklung mobiler Bezahlsysteme.

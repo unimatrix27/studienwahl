@@ -1,1 +1,3 @@
 Die Deutsche Rentenversicherung Bund (DRV Bund) ist der größte Träger der gesetzlichen Rentenversicherung in Deutschland mit Hauptsitz in Berlin. Mit über 27.000 Mitarbeitern betreut sie 24,2 Millionen Versicherte und mehr als 10 Millionen Rentner. Die DRV Bund hat eine große eigene IT-Abteilung, die die digitalen Systeme für Rentenberechnung, Verwaltung und Bürgerservices entwickelt und betreibt.
+
+In der über 1.200 Personen starken IT am Standort Berlin arbeiten Informatiker als Frontend- und Backend-Entwickler, DevOps Engineers für Container-Technologien und Data Scientists an KI-gestützten RAG-Systemen. Typische Projekte sind die Weiterentwicklung der Rentenberechnungssoftware, der Aufbau von Bürger-Self-Service-Portalen und die Modernisierung der IT-Infrastruktur.

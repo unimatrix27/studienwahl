@@ -1,1 +1,3 @@
 Tudock ist eine inhabergeführte E-Commerce-Agentur aus der Hamburger Speicherstadt, gegründet 2004. Das Unternehmen entwickelt Online-Shops und digitale Verkaufsarchitekturen für mittelständische und große Unternehmen, mit Expertise in Shopify, Shopware, Magento und Symfony. Zu den Kunden zählen unter anderem Schmidt Spiele und Prediger Lichtberater.
+
+Informatiker bei Tudock entwickeln Online-Shops auf Basis von Shopify Plus, Magento und Symfony, bauen Schnittstellen zu ERP- und Logistiksystemen und optimieren die Performance großer E-Commerce-Plattformen. Dabei arbeitet man in kleinen Teams direkt mit den Kunden und übernimmt Verantwortung vom Konzept bis zum Go-Live.

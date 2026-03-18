@@ -1,1 +1,3 @@
 classix Software ist ein mittelständisches Softwareunternehmen aus Hamburg, gegründet 1994, mit 11-50 Mitarbeitern. Das Unternehmen entwickelt ein eigenes ERP- und Software-Ökosystem namens CyberEnterprise, das in Branchen wie Maschinenbau, Anlagenbau, Pharma und Logistik eingesetzt wird. classix bietet von der Warenwirtschaft bis zur Lagerverwaltung branchenspezifische Lösungen an.
+
+Informatiker bei classix entwickeln das hauseigene CyberEnterprise Business OS und dessen Modulbibliothek (AppsWarehouse) mit über 1.800 Bausteinen weiter, arbeiten am generischen Web-Frontend MorphIT mit Angular und bauen den KI-Chatbot KLIO mit Quellenattribution. Der Stack reicht von der eigenen Plattform-Architektur bis zu modernen Web-Technologien.

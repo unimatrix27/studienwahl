@@ -1,1 +1,3 @@
 Telefonica Germany ist der größte Mobilfunkanbieter Deutschlands nach Kundenzahl und betreibt das O2-Netz mit über 35 Millionen Mobilfunkanschlüssen. Das Unternehmen hat seinen Sitz in München und gehört zum spanischen Telefonica-Konzern. Neben Mobilfunk bietet Telefonica Germany auch Breitband, Festnetz und IPTV an und betreibt ein eigenes 5G-Netz mit nahezu flächendeckender Abdeckung.
+
+Informatiker bei Telefonica Germany arbeiten an der Netzplanung und -automatisierung des 5G-Netzes, entwickeln Cloud- und DevOps-Lösungen für die interne Plattform und bauen Data-Science- und Analytics-Systeme zur Auswertung von Nutzungsdaten. Typische Technologien sind Java, Kubernetes, Network Slicing und Machine-Learning-Frameworks.
