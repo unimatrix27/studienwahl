@@ -1,0 +1,37 @@
+name: Build CV PDF
+
+on:
+  push:
+    paths:
+      - "lebenslauf/cv.yaml"
+      - "lebenslauf/src/**"
+      - "lebenslauf/photo.jpg"
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: lebenslauf
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: typst-community/setup-typst@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: lebenslauf/package-lock.json
+
+      - run: npm ci
+
+      - run: npx tsx src/cli.ts build
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cv-pdf
+          path: lebenslauf/output/cv.pdf

@@ -1,0 +1,84 @@
+# Lebenslauf — Merle Stücker
+# Einfach diese Datei bearbeiten und dann: npm run cv build
+
+personal:
+  firstname: "Merle"
+  lastname: "Stücker"
+  email: "merle.stuecker@gmail.com"
+  phone: "(+49) 159 01458291"
+  address: "Neptunstr. 20a\n85368 Moosburg a.d. Isar"
+  birthdate: "01.08.2007"
+  birthplace: "Hamburg"
+  photo: "photo.jpg"
+
+# Sprachen mit Level (1-5)
+languages:
+  - name: "Deutsch"
+    level: 5
+    label: "Muttersprache"
+  - name: "Englisch"
+    level: 4.5
+    label: "Fließend (Auslandsjahr)"
+
+# IT-Kenntnisse als einfache Liste
+it_skills:
+  - "LaTeX / Overleaf"
+  - "Microsoft Office"
+  - "C (Grundkenntnisse)"
+  - "HTML / CSS (Grundkenntnisse)"
+
+# Stärken als Tags
+strengths:
+  - "Eigeninitiative"
+  - "Interkulturelle Kompetenz"
+  - "Teamarbeit"
+  - "Zuverlässigkeit"
+  - "Analytisches Denken"
+
+# Interessen als Tags
+interests:
+  - "Programmieren"
+  - "Informatik"
+  # weitere hier ergänzen
+
+# Bildungsweg (neueste zuerst)
+education:
+  - title: "Karl-Ritter-von-Frisch-Gymnasium Moosburg"
+    date: "2017 – 2026"
+    institution: "Abitur (angestrebt Juni 2026)"  # Note nachtragen wenn bekannt
+    location: "Moosburg a.d. Isar"
+    description: ""  # Schwerpunkte, AGs etc.
+
+  - title: "Metamora Township High School"
+    date: "2023 – 2024"
+    institution: "Auslandsjahr — Abschluss umgerechnet: 1,0"
+    location: "Metamora, IL, USA"
+    description: "Schuljahr in den USA (11. Klasse) im Rahmen eines Schüleraustauschs."
+
+  - title: "Anton-Vitzthum-Grundschule Moosburg"
+    date: "2013 – 2017"
+    institution: "Grundschule"
+    location: "Moosburg a.d. Isar"
+    description: ""
+
+# Praktische Erfahrung
+experience:
+  - title: "Praktikum im Kindergarten"
+    date: "2022"                        # genaue Daten ergänzen
+    institution: "St. Elisabeth Kindergarten Moosburg"  # genauer Name ergänzen
+    location: "Moosburg a.d. Isar"
+    description: "Einwöchiges Orientierungspraktikum."
+
+# Weiterbildung
+training:
+  - title: "CS50: Introduction to Computer Science"
+    date: "2026"
+    institution: "Harvard University (online)"
+    location: "edX"
+    description: "Ziel: Abschluss bis Juli 2026."
+
+  - title: "Projektarbeit mit LaTeX"
+    date: "2025"
+    institution: "Karl-Ritter-von-Frisch-Gymnasium"
+    location: "Moosburg a.d. Isar"
+    description: "Wissenschaftliche Arbeit erstellt mit LaTeX/Overleaf."
