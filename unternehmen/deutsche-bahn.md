@@ -6,3 +6,4 @@ Als Informatikerin bei der Bahn arbeitest du vor allem bei DB Systel, wo über 8
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Diverse Hochschulen** — Duales Studium Informatik, Standorte Berlin, Hamburg, Hannover u.a.
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

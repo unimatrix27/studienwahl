@@ -1,0 +1,8 @@
+freenet DLS GmbH (ehemals Mobilcom-Debitel) ist einer der beiden netzunabhängigen Mobilfunkanbieter Deutschlands mit Hauptsitz in Büdelsdorf bei Rendsburg in Schleswig-Holstein. Das Unternehmen gehört zur freenet AG, die rund 3.200 Mitarbeiter beschäftigt und einen Jahresumsatz von etwa 2,5 Milliarden Euro erzielt. freenet DLS betreut rund 8,8 Millionen Mobilfunkkunden, betreibt aber kein eigenes Netz, sondern kauft Kapazitäten bei allen deutschen Netzbetreibern ein und vertreibt Tarife unter eigenem Namen. Zur freenet-Gruppe gehören außerdem Marken wie waipu.tv, freenet FUNK und diverse Digitalprodukte.
+
+Als Informatikerin bei freenet DLS arbeitest du an den IT-Systemen, die Millionen Mobilfunkverträge verwalten und den gesamten Kundenkontakt digital ermöglichen. Du programmierst zum Beispiel an den Abrechnungssystemen, die monatlich für 8,8 Millionen Kunden korrekte Rechnungen erstellen, oder du entwickelst die Schnittstellen zu den Mobilfunknetzen von Telekom, Vodafone und Telefónica, über die Tarife automatisch provisioniert und aktiviert werden. Andere Teams bauen das Online-Portal und die Apps weiter aus, über die Kunden ihre Verträge verwalten, neue Tarife buchen oder ihr Datenvolumen prüfen. Du arbeitest mit großen Datenbanksystemen, Microservices und Cloud-Technologien und lernst, wie man Software baut, die für Millionen Nutzer gleichzeitig zuverlässig funktionieren muss.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

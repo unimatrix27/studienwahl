@@ -1,0 +1,8 @@
+Das Technische Finanzamt Berlin ist der zentrale IT-Dienstleister der Berliner Steuerverwaltung mit Sitz in der Kniprodestraße in Prenzlauer Berg. Rund 300 Beschäftigte betreiben dort das Rechenzentrum, die Netzwerke und die Softwaresysteme, auf die alle Berliner Finanzämter angewiesen sind. Zu den Aufgaben gehören der Betrieb und die Weiterentwicklung der Steuersoftware, die Digitalisierung von Steuererklärungen, die Beschaffung von IT-Hardware und -Software sowie der Anwender-Support für die Sachbearbeiter in den Finanzämtern. Das Technische Finanzamt arbeitet dabei im Rahmen des Länderverbunds KONSENS an gemeinsamer Software für die Steuerverwaltungen aller Bundesländer.
+
+Als Informatikerin beim Technischen Finanzamt Berlin sorgst du dafür, dass die Steuerverwaltung der Hauptstadt digital funktioniert. Du programmierst zum Beispiel an der Software, mit der Sachbearbeiter Steuererklärungen bearbeiten und Bescheide erstellen, oder du entwickelst die Systeme weiter, die Millionen von Papiererklärungen einscannen und automatisch den richtigen Datensätzen zuordnen. Andere Teams betreuen das Rechenzentrum und die Netzwerkinfrastruktur, damit die Finanzämter auch bei hohem Aufkommen, etwa kurz vor dem Abgabetermin, stabil arbeiten können. Du arbeitest mit Datenbanken, ELSTER-Schnittstellen und Servertechnologien und sorgst dafür, dass sensible Steuerdaten sicher verarbeitet werden. Das Besondere: Dein Code betrifft buchstäblich jeden Berliner, der Steuern zahlt, und du trägst dazu bei, dass der Staat seine Einnahmen effizient und fair verwaltet.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

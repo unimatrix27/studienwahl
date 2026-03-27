@@ -1,0 +1,8 @@
+Viakom GmbH ist ein IT- und Telekommunikationsdienstleister mit Hauptsitz in Handewitt bei Flensburg und weiteren Standorten in Hamburg, Rostock und Neumünster. Mit rund 70 Mitarbeitern und über 15 Jahren Erfahrung berät und beliefert Viakom Geschäftskunden in den Bereichen Telekommunikation, IT- und Rechenzentrumsdienste, Unified Communications und IT-Consulting. Als Managed Service Provider bietet das Unternehmen maßgeschneiderte IT- und Kommunikationslösungen an, die von der Beratung über die Implementierung bis zum laufenden Betrieb reichen. Der Jahresumsatz liegt bei rund 6 Millionen Euro.
+
+Als Informatikerin bei Viakom kümmerst du dich um die IT-Infrastruktur von Geschäftskunden und sorgst dafür, dass deren Systeme zuverlässig laufen. Du richtest zum Beispiel Telefonanlagen und Unified-Communications-Systeme ein, über die ein Unternehmen mit 200 Mitarbeitern telefoniert, Videokonferenzen hält und Nachrichten austauscht, oder du planst und betreibst Netzwerke, die mehrere Standorte eines Kunden sicher miteinander verbinden. Andere Teams entwickeln Cloud-Lösungen, migrieren Server in Rechenzentren oder implementieren IT-Sicherheitskonzepte. Du arbeitest mit Netzwerktechnologien, Virtualisierung, Cloud-Plattformen und Kommunikationssystemen und lernst dabei viele verschiedene Unternehmen und deren IT-Anforderungen kennen. Das Besondere: Du siehst als IT-Dienstleisterin bei jedem Kunden ein neues Setup und bekommst einen breiten Einblick in die IT-Landschaft des Mittelstands.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

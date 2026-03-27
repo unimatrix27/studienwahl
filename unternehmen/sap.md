@@ -1,0 +1,8 @@
+SAP SE ist Europas größter Softwarekonzern und weltweit einer der führenden Anbieter von Unternehmenssoftware mit Hauptsitz in Walldorf, Baden-Württemberg. Mit über 110.000 Mitarbeitern in mehr als 157 Ländern und einem Jahresumsatz von rund 37 Milliarden Euro entwickelt SAP ERP-Systeme, Cloud-Lösungen und Datenbanktechnologien, die von über 440.000 Unternehmen weltweit eingesetzt werden. Am Berliner Standort an der George-Stephenson-Straße arbeiten bis zu 1.300 Mitarbeiter aus über 76 Nationen auf 37.500 Quadratmetern, mit Schwerpunkten auf Künstlicher Intelligenz, Machine Learning und Business Process Intelligence.
+
+Als Informatikerin bei SAP in Berlin arbeitest du an Software, die weltweit in Konzernen, Mittelständlern und Behörden die wichtigsten Geschäftsprozesse steuert. Du entwickelst zum Beispiel KI-Modelle, die in SAP S/4HANA Lieferkettenprobleme vorhersagen, bevor sie entstehen, oder du programmierst Cloud-Microservices auf der SAP Business Technology Platform, über die Kunden ihre Anwendungen erweitern. Andere Teams arbeiten an der In-Memory-Datenbank SAP HANA, die Milliarden Datensätze in Echtzeit analysiert, oder an Low-Code-Werkzeugen, mit denen auch Nicht-Programmierer eigene Apps bauen können. Das Besondere: SAP-Software steckt im Hintergrund von fast allem, was du kaufst, denn die meisten großen Unternehmen verwalten damit ihre Produktion, Logistik und Finanzen, und am Berliner Standort bist du mittendrin in der Entwicklung.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

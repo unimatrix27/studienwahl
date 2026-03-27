@@ -1,0 +1,8 @@
+Scopeland Technology GmbH ist ein Berliner Softwarehersteller und IT-Dienstleister, der seit der Gründung 1990 als Pionier der Low-Code-Technologie in Deutschland gilt. Mit mehr als 100 Mitarbeitern entwickelt das Unternehmen die Low-Code-Plattform SCOPELAND, mit der sich maßgeschneiderte Softwarelösungen weitgehend ohne klassische Programmierung erstellen lassen. Über 500 Projekte wurden bereits erfolgreich umgesetzt, vor allem für Bundesbehörden, Landesverwaltungen, Forschungsinstitute, Gesundheitseinrichtungen und große Industrieunternehmen. Scopeland verbindet über 30 Jahre Erfahrung mit einer Start-up-Atmosphäre am Berliner Standort.
+
+Als Informatikerin bei Scopeland Technology arbeitest du an einer Plattform, die das Programmieren selbst verändert. Du entwickelst zum Beispiel die SCOPELAND-Engine weiter, also den Kern der Low-Code-Plattform, der aus grafischen Modellen lauffähige Datenbankanwendungen generiert. Andere Teams nutzen die Plattform direkt in Kundenprojekten und bauen damit Fachanwendungen für Ministerien, in denen Sachbearbeiter komplexe Vorgänge digital bearbeiten, oder für Forschungseinrichtungen, die große Datenmengen verwalten müssen. Du arbeitest dabei mit Datenbanktechnologien, Webframeworks und eigenen Modellierungssprachen und sorgst dafür, dass aus abstrakten Prozessbeschreibungen performante Software wird. Das Spannende: Deine Arbeit ermöglicht es, Software viel schneller zu bauen als mit herkömmlichen Methoden, und du siehst direkt, wie deine Plattform in der Praxis genutzt wird.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

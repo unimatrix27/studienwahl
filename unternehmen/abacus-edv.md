@@ -1,0 +1,8 @@
+abacus edv-lösungen GmbH & Co. KG ist ein IT-Unternehmen mit Sitz in Wittenburg in Mecklenburg-Vorpommern, das seit 1992 zertifizierte Branchenlösungen und ERP-Software für Handel, Produktion und Logistik entwickelt. Als herausragender Sage-Partner hat abacus spezifische Lösungen für Unternehmen der Lebensmittel-, Pharma- und Kosmetikbranche geschaffen. Das Team besteht aus über 30 Beratern, Entwicklern und Verwaltungsmitarbeitern an den Standorten Wittenburg, Augsburg und Bremen. Zu den Spezialisierungen gehören Sage 100 ERP, mobile Datenerfassung, Kassenlösungen, Rückverfolgbarkeit und EDIFACT-Anbindungen.
+
+Als Informatikerin bei abacus edv-lösungen entwickelst du ERP-Software, die mittelständischen Unternehmen hilft, ihre Geschäftsprozesse digital abzuwickeln. Du programmierst zum Beispiel Module für die Rückverfolgbarkeit von Lebensmitteln, damit ein Hersteller lückenlos nachweisen kann, woher jede einzelne Zutat stammt und wohin das fertige Produkt geliefert wurde. Andere Teams bauen mobile Datenerfassungslösungen, mit denen Lagerarbeiter per Handscanner Warenein- und -ausgänge in Echtzeit ins ERP-System buchen, oder sie entwickeln Schnittstellen, über die Bestellungen automatisch im EDIFACT-Format an Handelspartner übermittelt werden. Du arbeitest mit Datenbanken, Sage-Technologien und mobilen Plattformen und lernst, wie Software in der echten Wirtschaft Prozesse vom Wareneingang bis zur Auslieferung steuert.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

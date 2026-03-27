@@ -1,0 +1,8 @@
+TRASER Software GmbH ist ein 2014 in Kiel gegründetes Softwareunternehmen, das eine Dealer-Management-Lösung für den Landmaschinen- und Baumaschinenhandel entwickelt. Die Plattform wird von über 4.500 Nutzern an mehr als 300 Standorten in ganz Europa eingesetzt und deckt den gesamten Geschäftsprozess von Handel, Service und Vermietung ab. TRASER hat neben dem Hauptsitz in Kiel weitere Büros in Deutschland, Rumänien und Serbien und wurde Anfang 2025 von Aptean Inc., einem globalen Anbieter von KI-gestützten ERP-Lösungen, übernommen.
+
+Als Informatikerin bei TRASER Software entwickelst du die digitale Plattform, auf der Landmaschinen- und Baumaschinenhändler ihr gesamtes Geschäft abwickeln. Du programmierst zum Beispiel Module, mit denen ein Händler seinen Maschinenbestand verwalten kann, inklusive Einkaufspreisen, Wartungshistorie und aktuellem Standort, oder du baust die Werkstattplanung, über die Servicetechniker ihre Aufträge erhalten und Arbeitszeiten sowie Ersatzteile dokumentieren. Andere Teams entwickeln Schnittstellen zu den Herstellersystemen von John Deere, CLAAS oder Caterpillar, damit Bestellungen und technische Daten automatisch synchronisiert werden. Du arbeitest mit modernen Webtechnologien, Datenbanken und Cloud-Infrastruktur und lernst, wie man eine komplexe Branchenlösung für den internationalen Markt baut. Das Spannende: Deine Software steckt in den Computern von Landmaschinenhändlern quer durch Europa.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

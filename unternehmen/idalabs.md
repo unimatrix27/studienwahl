@@ -1,0 +1,8 @@
+IDALABS GmbH & Co. KG ist ein 2017 in Kiel gegründetes Softwareunternehmen, das Handwerksbetriebe und Zulieferer bei der Digitalisierung ihrer Geschäftsprozesse unterstützt. Mit über 50 Mitarbeitern an Standorten in der Kieler Innenstadt und in Altenhof bei Eckernförde entwickelt IDALABS das ERP-System IDA, eine umfassende Branchenlösung für das Handwerk. IDA integriert 14 Module, die nahtlos zusammenarbeiten und Workflows vom Angebot über die Materialbestellung bis zur Rechnungsstellung durchgängig digitalisieren. Gegründet wurde das Unternehmen von Tobias Gurtler und dem Softwareentwickler Alexander Westen.
+
+Als Informatikerin bei IDALABS entwickelst du Software, die Handwerkern den Arbeitsalltag erleichtert. Du programmierst zum Beispiel Module, mit denen ein Elektrikermeister per App ein Angebot vor Ort beim Kunden erstellen kann, das automatisch die richtigen Materialpreise aus dem Großhandelskatalog zieht und direkt in einen Auftrag umgewandelt wird. Andere Teams bauen die Schnittstellen zu Lieferanten und Architekten, damit Bestellungen, Pläne und Rechnungen automatisch zwischen allen Beteiligten eines Bauprojekts ausgetauscht werden. Du arbeitest mit modernen Webtechnologien, mobilen Frameworks und Cloud-Infrastruktur und lernst, wie man eine komplexe ERP-Plattform von Grund auf aufbaut. Das Spannende: Du baust Software für eine Branche, die gerade erst richtig digital wird, und kannst mitgestalten, wie Hunderttausende Handwerksbetriebe in Zukunft arbeiten.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

@@ -1,0 +1,8 @@
+United Internet Sourcing & Apprenticeship GmbH ist die Ausbildungsgesellschaft der United Internet AG, eines der größten europäischen Internetunternehmen mit Marken wie 1&1, GMX, WEB.DE, IONOS und mail.com. Die 2017 gegründete Gesellschaft hat ihren Hauptsitz in Montabaur und einen Standort in Berlin an der Revaler Straße, über den duale Studierende für die gesamte Unternehmensgruppe betreut werden. Die United Internet AG beschäftigt konzernweit über 10.000 Mitarbeiter und erzielte zuletzt einen Jahresumsatz von rund 6 Milliarden Euro. Der Konzern zählt mit über 45 Millionen kostenpflichtigen Kundenverträgen zu den größten Internet-Dienstleistern Europas.
+
+Als Informatikerin bei United Internet arbeitest du an Produkten, die Millionen Menschen täglich nutzen, um E-Mails zu schreiben, Websites zu hosten oder im Internet zu surfen. Du programmierst zum Beispiel an den Backend-Systemen von GMX oder WEB.DE, die pro Tag Hunderte Millionen E-Mails zuverlässig zustellen, oder du entwickelst bei IONOS die Cloud-Infrastruktur, auf der Hunderttausende Websites und Onlineshops laufen. Andere Teams arbeiten an Spam-Filtern, die mit Machine Learning verdächtige Nachrichten erkennen, oder an den Abrechnungssystemen, die Millionen Kundenverträge verwalten. Du arbeitest mit Technologien wie Java, Python, Kubernetes und großen verteilten Systemen und lernst, wie man Software baut, die für Millionen Nutzer gleichzeitig funktionieren muss. Das Spannende: Wenn jemand in deinem Freundeskreis eine E-Mail an eine GMX- oder WEB.DE-Adresse schickt, läuft sie durch Systeme, an denen du mitgebaut hast.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

@@ -1,0 +1,8 @@
+Solvares FSM GmbH ist ein Softwareunternehmen mit Hauptsitz in Heikendorf bei Kiel, das 2025 aus der Fusion von FLS GmbH und mobileX GmbH entstanden ist. Das Unternehmen gehört zur Solvares Group, einem führenden internationalen Anbieter von Software für Field Service Management, Außendienststeuerung und Logistik mit über 350 Mitarbeitern an elf Standorten in Europa. Die Software von Solvares FSM optimiert die Einsatzplanung und Routenführung von Außendiensttechnikern und Servicemitarbeitern und wird von Unternehmen eingesetzt, die regelmäßig Techniker zu Kunden schicken, etwa Energieversorger, Telekommunikationsanbieter oder Wartungsdienstleister.
+
+Als Informatikerin bei Solvares FSM in Heikendorf entwickelst du Software, die dafür sorgt, dass Servicetechniker zur richtigen Zeit am richtigen Ort sind. Du programmierst zum Beispiel Optimierungsalgorithmen, die aus Hunderten offenen Aufträgen, Fahrzeiten, Qualifikationen und Zeitfenstern automatisch den effizientesten Tagesplan für jeden einzelnen Techniker berechnen. Andere Teams bauen die mobilen Apps, über die Techniker vor Ort ihre Aufträge abrufen, Arbeitsberichte erfassen und Ersatzteile bestellen, oder sie entwickeln die Echtzeitdashboards, auf denen Disponenten den gesamten Außendienst überwachen und bei Störungen umplanen können. Du arbeitest mit KI-gestützter Routenoptimierung, Cloud-Technologien und mobilen Frameworks und lernst, wie man mathematische Optimierung in echte Softwareprodukte umsetzt.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

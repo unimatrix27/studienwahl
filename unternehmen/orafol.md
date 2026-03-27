@@ -1,0 +1,8 @@
+ORAFOL Europe GmbH ist ein global tätiger Industriekonzern mit Hauptsitz in Oranienburg nördlich von Berlin. Das Unternehmen entwickelt, produziert und vertreibt Grafikprodukte, selbstklebende Reflexfolien, Klebebandsysteme und Kunststoffprodukte. Mit rund 1.300 Mitarbeitern allein am Standort Oranienburg und weiteren Produktionsstätten in Europa, Nordamerika, Asien und Australien gehört ORAFOL zu den weltweit führenden Anbietern in seinen Märkten. Die Unternehmensgeschichte reicht bis 1808 zurück, und unter dem heutigen Namen firmiert das Unternehmen seit 2005.
+
+Als Informatikerin bei ORAFOL sorgst du dafür, dass ein internationaler Industriebetrieb digital reibungslos läuft. Du programmierst zum Beispiel an den MES-Systemen (Manufacturing Execution Systems), die die Produktionsanlagen in Echtzeit überwachen und steuern, damit die Folienrollen in exakt der richtigen Qualität vom Band laufen. Andere Teams entwickeln ERP-Schnittstellen, die Bestellungen aus 40 Ländern automatisch in die Produktionsplanung einspeisen, oder bauen Dashboards, auf denen die Logistikabteilung den weltweiten Versand verfolgt. Du arbeitest dabei mit Datenbanken, Automatisierungssoftware und Netzwerkinfrastruktur und verbindest Produktionsstandorte auf mehreren Kontinenten. Das Spannende: Wenn du nachts auf der Autobahn ein reflektierendes Verkehrsschild siehst, steckt wahrscheinlich ORAFOL-Folie drauf, und deine IT hat geholfen, sie herzustellen.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

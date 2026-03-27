@@ -1,0 +1,8 @@
+Das Robert Koch-Institut (RKI) ist die zentrale Einrichtung der Bundesregierung auf dem Gebiet der Krankheitsüberwachung und -prävention mit Hauptsitz in Berlin. Rund 1.500 Mitarbeiterinnen und Mitarbeiter aus über 52 Nationen arbeiten an mehreren Berliner Standorten daran, Infektionskrankheiten zu erforschen, Gesundheitsrisiken einzuschätzen und die Öffentlichkeit zu informieren. Die IT-Abteilung des RKI umfasst etwa 100 Beschäftigte in fünf Teams, die die digitale Infrastruktur für Forschung, öffentliche Gesundheit und Verwaltung planen, betreiben und weiterentwickeln. Als Bundesoberbehörde im Geschäftsbereich des Bundesgesundheitsministeriums spielt das RKI eine Schlüsselrolle im Gesundheitsschutz Deutschlands.
+
+Als Informatikerin beim RKI entwickelst du Software, die Deutschland vor Krankheitsausbrüchen schützt. Du programmierst zum Beispiel an Surveillance-Systemen, über die Gesundheitsämter in ganz Deutschland Infektionsfälle melden und das RKI in Echtzeit erkennen kann, ob sich eine Krankheit ausbreitet. Andere Teams bauen Datenplattformen, die epidemiologische Daten aus Hunderten Quellen zusammenführen und für Forschende auswertbar machen, oder sie entwickeln die Webanwendungen, über die das RKI Lageberichte und Risikobewertungen veröffentlicht. Du arbeitest mit Datenbanken, Geoinformationssystemen und IT-Sicherheitstechnologien, denn die Gesundheitsdaten von Millionen Menschen müssen besonders geschützt werden. Das Besondere: Dein Code hilft dabei, Pandemien frühzeitig zu erkennen und die Gesundheit der gesamten Bevölkerung zu schützen.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

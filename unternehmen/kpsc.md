@@ -1,0 +1,8 @@
+KPSC GmbH ist ein Softwarehersteller mit Sitz in Kiel, der 2004 von Klaus-Peter Schatzmann gegründet wurde und eigene vollintegrierte SAP-Lösungsmodule entwickelt und vermarktet. Mit rund 20 Mitarbeitern an Standorten in Kiel/Schönkirchen, Hamburg und Süddeutschland hat sich KPSC auf digitale Prozesslösungen spezialisiert, die in SAP-Landschaften eingebettet werden. Die modularen Produkte decken Bereiche wie E-Invoicing, Purchase2Pay und Order2Cash ab und helfen Unternehmen, papierbasierte Geschäftsprozesse vollständig zu digitalisieren. Installationen werden von den deutschen Standorten aus koordiniert und betreuen Kunden im In- und Ausland.
+
+Als Informatikerin bei KPSC entwickelst du SAP-Zusatzmodule, die Geschäftsprozesse in Unternehmen automatisieren. Du programmierst zum Beispiel eine Lösung, die eingehende Rechnungen automatisch erkennt, die Daten extrahiert und direkt in SAP verbucht, sodass kein Sachbearbeiter mehr Rechnungen von Hand abtippen muss. Andere Teams entwickeln Workflows für den Einkaufsprozess, in denen Bestellanforderungen automatisch durch Genehmigungsstufen laufen und am Ende als Bestellungen an Lieferanten herausgehen. Du arbeitest mit ABAP, SAP-Schnittstellen, Dokumentenerkennungstechnologien und Webtechnologien und lernst, wie man Softwaremodule baut, die sich nahtlos in die komplexen IT-Landschaften großer Unternehmen einfügen. Das Besondere: Bei KPSC bist du nah am Produkt und am Kunden und siehst direkt, wie deine Lösung den Arbeitsalltag von Menschen vereinfacht.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

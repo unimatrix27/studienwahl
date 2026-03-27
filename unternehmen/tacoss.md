@@ -1,0 +1,8 @@
+TACOSS Software GmbH ist ein inhabergeführtes Softwareunternehmen mit Sitz in Flensburg, das seit über 30 Jahren branchenspezifische ERP-Software für den Handel entwickelt. Mit einem kleinen Team von rund 15 Mitarbeitern hat sich TACOSS als einer der führenden Anbieter von Warenwirtschaftssystemen für den Agrarhandel, den allgemeinen Handel, den Fischgroßhandel und den Handel mit Kraft- und Brennstoffen etabliert. Das Produktportfolio umfasst modulare Lösungen für Warenwirtschaft (tacoss.eTRADE), Finanzbuchhaltung (tacoss.eACCOUNT), Fuhrparkmanagement (tacoss.eTRUCK), Verwiegung (tacoss.eSCALE) sowie mobile Anwendungen und Webportale.
+
+Als Informatikerin bei TACOSS Software entwickelst du ERP-Lösungen, die speziell auf die Anforderungen von Handelsunternehmen zugeschnitten sind. Du programmierst zum Beispiel Funktionen für das Warenwirtschaftssystem, die den gesamten Ablauf eines Agrarhandelsgeschäfts abbilden, von der Ernte-Erfassung auf dem Feld per mobilem Wiegesystem über die Lagerverwaltung bis zur Fakturierung. Andere Teams bauen Webportale, über die Landwirte ihre Lieferungen und Abrechnungen online einsehen können, oder sie entwickeln Schnittstellen zu Logistikdienstleistern und Finanzsystemen. Du arbeitest mit Datenbanken, Webtechnologien und mobilen Plattformen und lernst in einem kleinen Team, wie man Software für spezialisierte Branchen von Grund auf konzipiert und weiterentwickelt. Das Besondere: Du siehst direkt, wie dein Code den Alltag von Händlern und Landwirten vereinfacht.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

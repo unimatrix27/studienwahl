@@ -1,0 +1,8 @@
+W. Pelz GmbH & Co. KG ist ein Hersteller von Hygiene-, Körperpflege- und Vliesstoffprodukten mit Sitz in Wahlstedt in Schleswig-Holstein. Seit fast 75 Jahren produziert das Unternehmen am Standort Wahlstedt Naturwatteprodukte für die Körperpflege, individualisierte Damenhygiene- und Inkontinenzprodukte sowie industrielle Vliesstoffe für Medizin, Hygiene und Filtration. Die pelzGROUP beschäftigt über 800 Mitarbeiter und beliefert Kunden weltweit. Als produzierendes Unternehmen mit hohem Automatisierungsgrad setzt Pelz stark auf moderne IT, um Fertigungsprozesse, Qualitätssicherung und Logistik digital zu steuern.
+
+Als Informatikerin bei Pelz sorgst du dafür, dass eine hochautomatisierte Produktion reibungslos läuft. Du programmierst zum Beispiel an den MES-Systemen, die die Fertigungsanlagen in Echtzeit überwachen und bei Abweichungen in der Vliesstoffqualität automatisch die Maschinenparameter anpassen. Andere Teams entwickeln das ERP-System weiter, das den gesamten Prozess von der Rohstoffbestellung über die Produktionsplanung bis zum Versand an den Handel abbildet, oder sie bauen Schnittstellen zu den Qualitätsmanagementsystemen, die sicherstellen, dass medizinische Vliesprodukte alle Normen und Zertifizierungen erfüllen. Du arbeitest mit Datenbanken, Automatisierungstechnik und Unternehmenssoftware und lernst, wie IT in einem Industriebetrieb Produktion und Logistik steuert. Das Besondere: Die Produkte, an deren Herstellung dein Code mitwirkt, stehen in Drogerien und Apotheken in ganz Deutschland.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

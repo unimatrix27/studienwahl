@@ -1,0 +1,8 @@
+Verti Versicherung AG ist einer der größten Kfz-Direktversicherer Deutschlands mit Hauptsitz in Teltow bei Berlin und rund 500 Mitarbeitern. Das Unternehmen wurde 1996 gegründet, hieß bis 2017 Direct Line Versicherung AG und gehört seit 2015 zur spanischen Mapfre-Gruppe, einem der größten Versicherungskonzerne Europas. Verti versichert über 800.000 Fahrzeuge und bietet neben Kfz-Versicherungen auch Privathaftpflicht-, Rechtsschutz- und Motorradversicherungen an. Als Direktversicherer wickelt Verti den Großteil des Geschäfts online und telefonisch ab, was die IT zum Herzstück des Unternehmens macht.
+
+Als Informatikerin bei Verti entwickelst du die digitalen Systeme, über die Kundinnen und Kunden ihre Versicherung komplett online abschließen und verwalten. Du programmierst zum Beispiel die Tarifrechner, die in Sekundenbruchteilen aus Dutzenden Faktoren wie Fahrzeugtyp, Wohnort und Schadenfreiheitsklasse den individuellen Versicherungsbeitrag berechnen, oder du baust das Kundenportal weiter aus, über das Versicherte Schäden melden und den Bearbeitungsstatus verfolgen können. Andere Teams arbeiten an der Schadenbearbeitung, wo Algorithmen eingehende Schadenmeldungen automatisch kategorisieren und priorisieren, oder an Data-Analytics-Projekten, die Betrugsmuster in Schadendaten erkennen. Du arbeitest mit Java, Cloud-Technologien und modernen Webframeworks und lernst, wie ein Versicherungsunternehmen im Kern als Technologieunternehmen funktioniert. Das Besondere: Dein Code entscheidet direkt darüber, welchen Preis Hunderttausende Autofahrer für ihre Versicherung zahlen.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

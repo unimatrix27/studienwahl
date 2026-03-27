@@ -1,0 +1,8 @@
+Das Max-Delbrück-Centrum für Molekulare Medizin (MDC) ist ein biomedizinisches Forschungszentrum der Helmholtz-Gemeinschaft mit Hauptsitz in Berlin-Buch. Rund 1.800 Mitarbeiterinnen und Mitarbeiter aus über 60 Nationen erforschen dort die molekularen Grundlagen von Krankheiten, um Erkenntnisse möglichst schnell in klinische Anwendungen zu übertragen. Das MDC wird zu 90 Prozent vom Bund und zu 10 Prozent vom Land Berlin finanziert und arbeitet eng mit der Charité und dem Berlin Institute of Health zusammen. Ein besonderer Schwerpunkt liegt auf der Systembiologie, für die das MDC 2008 das Berlin Institute for Medical Systems Biology (BIMSB) gegründet hat.
+
+Als Informatikerin beim MDC entwickelst du Software, die riesige Mengen an Genomdaten, Proteom- und Bildgebungsdaten verarbeitet und für die Forschenden auswertbar macht. Du programmierst zum Beispiel Pipelines, die DNA-Sequenzierdaten automatisch analysieren, oder du baust Datenbanken und Webanwendungen, über die Forschungsgruppen weltweit auf Datensätze zugreifen können. Im Bereich High-Performance-Computing sorgst du dafür, dass die Rechencluster zuverlässig laufen, auf denen Machine-Learning-Modelle trainiert werden, die etwa Tumorarten anhand von Genexpressionsmustern erkennen. Das Spannende: Dein Code hilft direkt dabei, Krankheiten wie Krebs oder Herz-Kreislauf-Erkrankungen besser zu verstehen, und deine Arbeit kann langfristig dazu beitragen, dass Patientinnen und Patienten besser behandelt werden.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.

@@ -1,0 +1,8 @@
+Förde Digital GmbH ist ein deutschlandweit tätiges IT-Unternehmen in Familienbesitz mit Hauptsitz in Kiel und weiteren Standorten in Hamburg und Mannheim. Seit der Gründung 2008 (ursprünglich als BKE doc-solutions, seit 2018 unter dem heutigen Namen) hat sich das Unternehmen vom klassischen Scandienstleister zum Spezialisten für Prozessanalyse, Prozessberatung und Digitalisierung entwickelt. Mit rund 40 Mitarbeitern ist Förde Digital unter anderem Premium-Partner und zertifizierter Systemintegrator für die Business-Process-Management-Plattform JobRouter. Kunden kommen aus Industrie, Handel, Dienstleistung und Finanzwesen.
+
+Als Informatikerin bei Förde Digital hilfst du Unternehmen dabei, ihre papierbasierten Abläufe in digitale Workflows zu verwandeln. Du konfigurierst und programmierst zum Beispiel auf der Low-Code-Plattform JobRouter automatisierte Geschäftsprozesse, etwa einen digitalen Rechnungseingang, bei dem eingehende Rechnungen automatisch gescannt, per OCR ausgelesen, dem richtigen Sachbearbeiter zugewiesen und nach Freigabe ins Buchhaltungssystem gebucht werden. Andere Teams beraten Kunden bei der Prozessanalyse und helfen ihnen zu verstehen, welche Abläufe sich am besten digitalisieren lassen. Du arbeitest mit Workflow-Engines, Datenbanken, Dokumentenmanagementsystemen und Schnittstellen zu ERP-Systemen und lernst, wie Digitalisierung in der Praxis funktioniert, vom Verständnis des Geschäftsprozesses bis zur fertigen Lösung.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik B.Sc., Standort Kiel

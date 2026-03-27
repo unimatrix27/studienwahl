@@ -5,4 +5,4 @@ Als Informatikerin bei Bayer schreibst du zum Beispiel Python-Programme, die rie
 ---
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
-- **HWR Berlin (oder vergleichbar)** — Duales Studium Informatik, Standort Berlin
+- **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.
