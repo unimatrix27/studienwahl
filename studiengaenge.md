@@ -131,22 +131,22 @@
 
 | Unternehmen | Studiengang | Kontakt / Info |
 |-------------|-------------|----------------|
-| ADventas Consulting GmbH | Angewandte Informatik | |
-| berry2b GmbH | Angewandte Informatik | |
-| classix Software GmbH | Angewandte Informatik | |
-| Crane Payment Innovations GmbH | Angew. Informatik + Inf. Techn. Systeme | |
-| Dataport AöR | Angewandte Informatik | |
-| deepblue networks AG | Angewandte Informatik | |
-| Deutsches Elektronen-Synchrotron DESY | Angewandte Informatik | |
-| EnBW Energie Baden-Württemberg AG | Angewandte Informatik | Katharina Götz, katharina.goetz@enbw.com, Bewerbung ab Juni |
-| SIGNAL IDUNA Asset Management GmbH | Angewandte Informatik | |
-| Studio Hamburg MCI GmbH | Angewandte Informatik | |
-| SYNIOS Document & Workflow Management GmbH | Angewandte Informatik | |
-| Telefónica Germany GmbH & Co. OHG | Angew. Informatik + Wirtschaftsinformatik | |
-| TUDOCK GmbH | Angewandte Informatik | |
-| Vibracoustic SE & Co. KG | Angew. Informatik + Inf. Techn. Systeme | |
-| Werum Software & Systems AG | Angew. Informatik + Inf. Techn. Systeme | |
-| yes!devs GmbH | Angewandte Informatik | |
+| [ADventas Consulting GmbH](unternehmen/adventas-consulting.md) | Angewandte Informatik | |
+| [berry2b GmbH](unternehmen/berry2b.md) | Angewandte Informatik | |
+| [classix Software GmbH](unternehmen/classix-software.md) | Angewandte Informatik | |
+| [Crane Payment Innovations GmbH](unternehmen/crane-payment-innovations.md) | Angew. Informatik + Inf. Techn. Systeme | |
+| [Dataport AöR](unternehmen/dataport.md) | Angewandte Informatik | |
+| [deepblue networks AG](unternehmen/deepblue-networks.md) | Angewandte Informatik | |
+| [Deutsches Elektronen-Synchrotron DESY](unternehmen/desy.md) | Angewandte Informatik | |
+| [EnBW Energie Baden-Württemberg AG](unternehmen/enbw.md) | Angewandte Informatik | Katharina Götz, katharina.goetz@enbw.com, Bewerbung ab Juni |
+| [SIGNAL IDUNA Asset Management GmbH](unternehmen/signal-iduna.md) | Angewandte Informatik | |
+| [Studio Hamburg MCI GmbH](unternehmen/studio-hamburg-mci.md) | Angewandte Informatik | |
+| [SYNIOS Document & Workflow Management GmbH](unternehmen/synios.md) | Angewandte Informatik | |
+| [Telefónica Germany GmbH & Co. OHG](unternehmen/telefonica-germany.md) | Angew. Informatik + Wirtschaftsinformatik | |
+| [TUDOCK GmbH](unternehmen/tudock.md) | Angewandte Informatik | |
+| [Vibracoustic SE & Co. KG](unternehmen/vibracoustic.md) | Angew. Informatik + Inf. Techn. Systeme | |
+| [Werum Software & Systems AG](unternehmen/werum-software-systems.md) | Angew. Informatik + Inf. Techn. Systeme | |
+| [yes!devs GmbH](unternehmen/yesdevs.md) | Angewandte Informatik | |
 
 ### 15. HWR Berlin — Informatik (dual) B.Sc.
 - **Ort:** Berlin
@@ -155,7 +155,7 @@
 - **Besonderheit:** Braucht Partnerunternehmen
 - **URL:** https://www.hwr-berlin.de/
 
-### 15b. Polizei Berlin — Duales Studium Informatik B.Sc. (über HWR Berlin)
+### 15b. [Polizei Berlin](unternehmen/polizei-berlin.md) — Duales Studium Informatik B.Sc. (über HWR Berlin)
 - **Ort:** Berlin
 - **Typ:** Duales Studium bei der Polizei, Theorie an der HWR Berlin
 - **NC:** Eigenes Auswahlverfahren (kein klassischer NC)
@@ -181,7 +181,7 @@
 - **Besonderheit:** Größte private FH Deutschlands, Unternehmen zahlt Studiengebühren, flexibel (auch virtuell), Netzwerk von 15.000+ Partnerunternehmen
 - **URL:** https://www.iu.de/duales-studium/informatik/
 
-### 17. Deutsche Bahn — Duales Studium Informatik
+### 17. [Deutsche Bahn](unternehmen/deutsche-bahn.md) — Duales Studium Informatik
 - **Ort:** Diverse Standorte (u.a. Berlin, Hamburg)
 - **Besonderheit:** ~1.400–1.500€/Monat Gehalt, NetzCard (freies Bahnfahren), Mietkostenzuschuss bis 400€/Monat
 - **URL:** https://db.jobs/de-de/dein-einstieg/duales-studium/it
@@ -194,17 +194,17 @@
 
 | Unternehmen | Studiengang | Start | Hochschule | Plätze |
 |-------------|-------------|-------|------------|--------|
-| **Otto GmbH & Co. KG** | Angewandte Informatik B.Sc. | 01.09.2026 | Nordakademie Elmshorn | 1 |
-| **Techniker Krankenkasse** | Angewandte Informatik B.Sc. | 01.08.2026 | Nordakademie Elmshorn | 4 |
-| **Techniker Krankenkasse** | Technische Informatik / IT-Engineering B.Sc. | 01.08.2026 | Nordakademie Elmshorn | ? |
-| **HanseMerkur Versicherung** | Angewandte Informatik B.Sc. | 01.09.2026 | Nordakademie Elmshorn | 1 |
-| **DERMALOG** | Angewandte Informatik B.Sc. | 01.10.2026 | ? | 1 |
-| **EnBW Energie** | Informatik / Angewandte Informatik B.Sc. | 01.09.2026 | ? | ? |
-| **bonprix** | Informatik B.Sc. + Fachinformatiker | 2026 | BHH (Berufliche HS Hamburg) | ? |
-| **Lufthansa Technik** | Informatik-Ingenieurwesen B.Sc. | 08.2026 | TUHH | ? |
-| **UKE (Uniklinikum)** | Technische Informatik / IT-Engineering B.Sc. | 2026 | Nordakademie Elmshorn | ? |
-| **Airbus** | Informatik-Ingenieurwesen B.Sc. | 10.2026 | TUHH | ausgeschrieben, prüfen! |
-| **EY (Ernst & Young)** | Wirtschaftsinformatik / Angew. Informatik B.Sc. | 15.09.2026 | ? | ? |
+| **[Otto GmbH & Co. KG](unternehmen/otto.md)** | Angewandte Informatik B.Sc. | 01.09.2026 | Nordakademie Elmshorn | 1 |
+| **[Techniker Krankenkasse](unternehmen/techniker-krankenkasse.md)** | Angewandte Informatik B.Sc. | 01.08.2026 | Nordakademie Elmshorn | 4 |
+| **[Techniker Krankenkasse](unternehmen/techniker-krankenkasse.md)** | Technische Informatik / IT-Engineering B.Sc. | 01.08.2026 | Nordakademie Elmshorn | ? |
+| **[HanseMerkur Versicherung](unternehmen/hansemerkur.md)** | Angewandte Informatik B.Sc. | 01.09.2026 | Nordakademie Elmshorn | 1 |
+| **[DERMALOG](unternehmen/dermalog.md)** | Angewandte Informatik B.Sc. | 01.10.2026 | ? | 1 |
+| **[EnBW Energie](unternehmen/enbw.md)** | Informatik / Angewandte Informatik B.Sc. | 01.09.2026 | ? | ? |
+| **[bonprix](unternehmen/bonprix.md)** | Informatik B.Sc. + Fachinformatiker | 2026 | BHH (Berufliche HS Hamburg) | ? |
+| **[Lufthansa Technik](unternehmen/lufthansa-technik.md)** | Informatik-Ingenieurwesen B.Sc. | 08.2026 | TUHH | ? |
+| **[UKE (Uniklinikum)](unternehmen/uke.md)** | Technische Informatik / IT-Engineering B.Sc. | 2026 | Nordakademie Elmshorn | ? |
+| **[Airbus](unternehmen/airbus.md)** | Informatik-Ingenieurwesen B.Sc. | 10.2026 | TUHH | ausgeschrieben, prüfen! |
+| **[EY (Ernst & Young)](unternehmen/ey.md)** | Wirtschaftsinformatik / Angew. Informatik B.Sc. | 15.09.2026 | ? | ? |
 
 **Tipp:** Die meisten Hamburg-Stellen laufen über die **Nordakademie Elmshorn** — dort die Studienplatzbörse prüfen: https://www.nordakademie.de/studium/bachelor-dual/studiengangsplaetze-2026/
 
@@ -212,20 +212,20 @@
 
 | Unternehmen | Studiengang | Start | Plätze |
 |-------------|-------------|-------|--------|
-| **Berliner Stadtreinigung (BSR)** | Informatik B.Sc. | 01.09.2026 | 2 |
-| **Deutsche Rentenversicherung Bund** | Informatik | 01.09.2026 | 2 |
-| **Bayer AG** | Informatik B.Sc. | 01.09.2026 | 1 |
-| **KfW Bankengruppe** | Informatik B.Sc. | 01.10.2026 | 1 |
-| **Atos Information Technology** | Informatik B.Sc. (versch. Vertiefungen) | 01.09.2026 | 14 |
+| **[Berliner Stadtreinigung (BSR)](unternehmen/berliner-stadtreinigung.md)** | Informatik B.Sc. | 01.09.2026 | 2 |
+| **[Deutsche Rentenversicherung Bund](unternehmen/deutsche-rentenversicherung-bund.md)** | Informatik | 01.09.2026 | 2 |
+| **[Bayer AG](unternehmen/bayer.md)** | Informatik B.Sc. | 01.09.2026 | 1 |
+| **[KfW Bankengruppe](unternehmen/kfw.md)** | Informatik B.Sc. | 01.10.2026 | 1 |
+| **[Atos Information Technology](unternehmen/atos.md)** | Informatik B.Sc. (versch. Vertiefungen) | 01.09.2026 | 14 |
 | **IU Duales Studium** | Informatik B.Sc. | flexibel | 300 |
 
 ### Hannover / Niedersachsen
 
 | Unternehmen | Studiengang | Start | Ort |
 |-------------|-------------|-------|-----|
-| **Vodafone** | Informatik B.Sc. | 01.10.2026 | Hannover |
-| **Volkswagen** | Informatik B.Sc. | 08.2026 | Wolfsburg/Hannover |
-| **Deutsche Bahn** | Informatik | 2026 | Hannover |
+| **[Vodafone](unternehmen/vodafone.md)** | Informatik B.Sc. | 01.10.2026 | Hannover |
+| **[Volkswagen](unternehmen/volkswagen.md)** | Informatik B.Sc. | 08.2026 | Wolfsburg/Hannover |
+| **[Deutsche Bahn](unternehmen/deutsche-bahn.md)** | Informatik | 2026 | Hannover |
 
 **VW Bewerbungsfrist: bis 30.04.2026!** https://www.volkswagen-karriere.de/de/einstiegsmoeglichkeiten/schueler/duales-studium.html
 
@@ -233,8 +233,8 @@
 
 | Unternehmen | Studiengang | Standorte | URL |
 |-------------|-------------|-----------|-----|
-| **Deutsche Bahn** | Informatik | Berlin, Hamburg, u.a. | https://db.jobs/de-de/dein-einstieg/duales-studium/it |
-| **Deutsche Telekom** | Informatik / Informationstechnik | deutschlandweit | https://www.telekom.com/de/karriere |
+| **[Deutsche Bahn](unternehmen/deutsche-bahn.md)** | Informatik | Berlin, Hamburg, u.a. | https://db.jobs/de-de/dein-einstieg/duales-studium/it |
+| **[Deutsche Telekom](unternehmen/deutsche-telekom.md)** | Informatik / Informationstechnik | deutschlandweit | https://www.telekom.com/de/karriere |
 | **IU Duales Studium** | Informatik B.Sc. | HH, Berlin, Hannover, Bremen + virtuell | https://www.iu.de/duales-studium/informatik/ |
 
 ### Vergütung (Beispiele)
