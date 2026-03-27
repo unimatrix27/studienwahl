@@ -1,3 +1,8 @@
 Bayer ist ein globaler Life-Science-Konzern mit Hauptsitz in Leverkusen und rund 93.000 Mitarbeitern weltweit. Das Unternehmen ist in drei Sparten aufgeteilt: Pharma, Consumer Health und Crop Science (Agrarchemie). Bayer ist unter anderem für Aspirin und die Übernahme von Monsanto bekannt und investiert jährlich rund 5,8 Milliarden Euro in Forschung und Entwicklung.
 
 Als Informatikerin bei Bayer schreibst du zum Beispiel Python-Programme, die riesige Datensätze aus Medikamenten-Studien auswerten und dabei helfen herauszufinden, ob ein neues Medikament wirklich wirkt und für wen es am besten geeignet ist. In der Agrarsparte baust du Modelle, die anhand von Wetter-, Boden- und Satellitendaten vorhersagen, wie Landwirte ihre Ernte verbessern können. Du arbeitest dabei eng mit Biologen, Chemikern und Ärzten zusammen, was den Job besonders macht: Du löst nicht abstrakte IT-Probleme, sondern dein Code hat direkten Einfluss darauf, ob Medikamente schneller zu den Patienten kommen oder ob auf einem Feld mehr Nahrung wächst.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (oder vergleichbar)** — Duales Studium Informatik, Standort Berlin

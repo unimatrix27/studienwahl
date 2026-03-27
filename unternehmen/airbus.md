@@ -1,3 +1,8 @@
 Airbus ist einer der weltweit größten Flugzeughersteller mit europäischem Hauptsitz in Toulouse und einem der wichtigsten Produktionsstandorte in Hamburg-Finkenwerder. Am Standort Hamburg arbeiten rund 12.500 Mitarbeiter an der Endmontage der A320-Familie sowie an Rumpfsektionen für A330 und A350. Hamburg-Finkenwerder ist die drittgrößte zivile Flugzeugproduktionsstätte der Welt nach Seattle und Toulouse.
 
 Als Informatikerin bei Airbus schreibst du zum Beispiel Software, die in den Cockpit-Computern eines A320 läuft, oder du baust die digitalen Werkzeuge, mit denen Ingenieure Flugzeugteile am Bildschirm konstruieren und testen, bevor sie in die Fertigung gehen. Andere Teams schreiben Programme, die Sensordaten aus der Produktion auswerten und automatisch erkennen, wenn eine Maschine in der Fertigung nicht mehr rund läuft. Das Besondere: Dein Code steckt am Ende in echten Flugzeugen oder sorgt dafür, dass sie sicher und effizient gebaut werden. Programmiert wird je nach Team in Python, Java oder C++, und du arbeitest eng mit Ingenieuren und Piloten zusammen.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **TUHH** — Duales Studium Informatik-Ingenieurwesen, Standort Hamburg

@@ -1,3 +1,8 @@
 bonprix ist ein großes Modeunternehmen mit Sitz in Hamburg und gehört zur Otto Group. Mit rund 3.700 Mitarbeitern weltweit und einem Umsatz von etwa 1,5 Milliarden Euro erreicht bonprix rund 15 Millionen aktive Kunden in etwa 30 Ländern. Über 90 Prozent des Umsatzes werden online erzielt, womit bonprix zu den größten Mode-Online-Shops in Deutschland zählt.
 
 Als Informatikerin bei bonprix arbeitest du an dem Online-Shop, den 15 Millionen Kunden in 30 Ländern nutzen. Du schreibst zum Beispiel in Java den Code, der dafür sorgt, dass eine Kundin in Frankreich die richtige Produktempfehlung angezeigt bekommt, oder du baust das System, das Bestellungen zuverlässig ans Lager weiterleitet, auch wenn gerade zehntausende Leute gleichzeitig einkaufen. Andere Teams überwachen mit Analyse-Tools rund um die Uhr, ob der Shop schnell genug lädt, und finden Fehler, bevor Kunden sie bemerken. Spannend ist, dass du direkt sehen kannst, wie sich deine Änderungen auf echte Verkaufszahlen auswirken, etwa wenn dein Algorithmus bessere Empfehlungen liefert und dadurch mehr Leute etwas kaufen.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **BHH (Berufliche Hochschule Hamburg)** — Duales Studium Informatik + Fachinformatiker, Standort Hamburg

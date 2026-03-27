@@ -1,3 +1,8 @@
 Die Deutsche Rentenversicherung Bund (DRV Bund) ist der größte Träger der gesetzlichen Rentenversicherung in Deutschland mit Hauptsitz in Berlin. Mit über 27.000 Mitarbeitern betreut sie 24,2 Millionen Versicherte und mehr als 10 Millionen Rentner. Die DRV Bund hat eine große eigene IT-Abteilung, die die digitalen Systeme für Rentenberechnung, Verwaltung und Bürgerservices entwickelt und betreibt.
 
 Als Informatikerin in der über 1.200 Personen starken IT-Abteilung in Berlin programmierst du zum Beispiel an der Software, die für über 24 Millionen Menschen berechnet, wie viel Rente sie später bekommen. Oder du baust Online-Portale, über die Bürger ihre Rentenanträge digital einreichen und den Stand ihrer Rente einsehen können, statt Formulare per Post zu schicken. Andere Teams entwickeln KI-gestützte Systeme, die Sachbearbeitern helfen, schneller die richtige Antwort auf komplizierte Fragen zu finden. Der Job ist sicherer als in kaum einem anderen IT-Bereich, und du schreibst Software, die irgendwann wirklich jeder in Deutschland benutzt.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HWR Berlin (oder vergleichbar)** — Duales Studium Informatik, Standort Berlin

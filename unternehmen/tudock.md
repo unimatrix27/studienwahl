@@ -1,3 +1,8 @@
 Tudock ist eine inhabergeführte E-Commerce-Agentur aus der Hamburger Speicherstadt, gegründet 2004. Das Unternehmen entwickelt Online-Shops und digitale Verkaufsarchitekturen für mittelständische und große Unternehmen, mit Expertise in Shopify, Shopware, Magento und Symfony. Zu den Kunden zählen unter anderem Schmidt Spiele und Prediger Lichtberater.
 
 Als Informatikerin bei Tudock baust du Online-Shops für Unternehmen, die ihre Produkte im Internet verkaufen wollen. Konkret heißt das: Du programmierst mit Shopify, Magento oder dem PHP-Framework Symfony den Shop so, dass Kunden Produkte finden, in den Warenkorb legen und bezahlen können, und du schreibst die Verbindungen zur Lagersoftware, damit eine Bestellung automatisch im Lager ankommt und verschickt wird. Weil das Team klein ist, arbeitest du direkt mit den Kunden zusammen und begleitest ein Projekt von der ersten Idee bis zum Tag, an dem der Shop online geht. Das ist besonders für den Einstieg spannend, weil du schnell das große Ganze verstehst und nicht nur ein kleines Rädchen bist.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen

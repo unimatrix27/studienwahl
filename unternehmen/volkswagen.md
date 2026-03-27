@@ -1,3 +1,8 @@
 Volkswagen ist der größte Automobilhersteller Europas mit Hauptsitz in Wolfsburg und betreibt 112 Produktionswerke in 27 Ländern. Zum Konzern gehören zwölf Marken, darunter VW, Audi, Porsche, Lamborghini, Bentley und Skoda. Das Werk Wolfsburg ist die größte zusammenhängende Automobilfabrik der Welt, und VW investiert massiv in Elektromobilität und Digitalisierung mit einer großen eigenen IT-Organisation.
 
 Als Informatikerin bei Volkswagen arbeitest du entweder in der konzernweiten IT oder bei der Softwaretochter CARIAD, wo über 6.500 Entwickler die Software bauen, die in allen Autos des Konzerns läuft, von VW über Audi bis Porsche. Du programmierst zum Beispiel die Funktionen, die ein Auto dazu bringen, selbstständig einzuparken oder auf der Autobahn die Spur zu halten, oder du baust die Server-Systeme, an die sich vernetzte Autos über das Internet verbinden, um Software-Updates zu empfangen. Das Besondere: Dein Code steckt am Ende in Millionen von Autos weltweit, und du arbeitest an einer der spannendsten Fragen der Branche, nämlich wie Autos in Zukunft zu fahrenden Computern werden.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **Hochschule Hannover/Wolfsburg (oder vergleichbar)** — Duales Studium Informatik, Standort Wolfsburg/Hannover

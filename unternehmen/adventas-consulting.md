@@ -1,3 +1,8 @@
 ADventas Consulting ist eine kleine SAP-Beratungsfirma mit Sitz in Hamburg, gegründet 2006, mit etwa 2-10 Mitarbeitern. Das Unternehmen ist spezialisiert auf SAP-Beratung für Unternehmen im globalen Rohstoff- und Konsumgüterhandel und bietet IT-Services, Projektmanagement und Schulungen an. Schwerpunkte liegen auf S/4HANA und Global Trade Management.
 
 Als Informatikerin bei ADventas baust du die Software, mit der große Handelsunternehmen ihre weltweiten Rohstoff-Einkäufe und -Verkäufe abwickeln. Konkret heißt das: Du programmierst in ABAP Anpassungen an SAP-Systemen, damit zum Beispiel ein Getreidehändler in Hamburg seine Lieferung aus Brasilien sauber im System verfolgen kann, von der Bestellung bis zur Verzollung. Weil das Team so klein ist, bist du nicht nur Programmiererin, sondern sitzt auch direkt beim Kunden, verstehst dessen Geschäft und entscheidest mit, wie die Software aussehen soll. Das Spannende daran: Du siehst sofort, wie dein Code im echten Arbeitsalltag benutzt wird, und bekommst schnell Verantwortung, die man in großen Konzernen erst nach Jahren bekommt.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen

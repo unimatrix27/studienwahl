@@ -1,3 +1,8 @@
 Die Deutsche Telekom ist mit Sitz in Bonn der umsatzstärkste Telekommunikationskonzern Europas und einer der größten weltweit. Das Unternehmen entstand 1995 aus der Deutschen Bundespost und bietet Mobilfunk, Festnetz, Breitband und IT-Services an. Über die US-Tochter T-Mobile US ist die Telekom auch der größte Mobilfunkanbieter in den USA, und die Gruppe beschäftigt weltweit mehrere Hunderttausend Mitarbeiter.
 
 Als Informatikerin bei der Telekom schreibst du zum Beispiel in Python Programme, die das Mobilfunknetz in Echtzeit überwachen und automatisch erkennen, wenn irgendwo die Verbindung schlecht wird, damit Techniker das Problem beheben können, bevor Kunden es merken. Andere Teams bauen die Cloud-Plattformen, auf denen Unternehmen ihre eigene IT betreiben können, also Server und Speicher, die man übers Internet mietet statt selbst zu kaufen. Du kannst auch bei der Tochter T-Systems arbeiten, wo du Firmen dabei hilfst, ihre gesamte IT in die Cloud zu verlagern und dort sicher zu betreiben. Das Spannende: Du arbeitest an Infrastruktur, die Millionen Menschen im Alltag nutzen, und lernst Technologien wie Kubernetes und Azure kennen, die überall in der IT-Welt gefragt sind.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **Diverse Hochschulen** — Duales Studium Informatik/Informationstechnik, deutschlandweit

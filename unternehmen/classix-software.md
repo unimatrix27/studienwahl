@@ -1,3 +1,8 @@
 classix Software ist ein mittelständisches Softwareunternehmen aus Hamburg, gegründet 1994, mit 11-50 Mitarbeitern. Das Unternehmen entwickelt ein eigenes ERP- und Software-Ökosystem namens CyberEnterprise, das in Branchen wie Maschinenbau, Anlagenbau, Pharma und Logistik eingesetzt wird. classix bietet von der Warenwirtschaft bis zur Lagerverwaltung branchenspezifische Lösungen an.
 
 Als Informatikerin bei classix baust du an einer Unternehmenssoftware, die Firmen nutzen, um ihre kompletten Abläufe zu steuern, von der Bestellung eines Bauteils über die Lagerverwaltung bis zur Rechnung. Du programmierst zum Beispiel mit Angular neue Oberflächen, über die ein Maschinenbauer seine Lagerbestände verwaltet, oder du entwickelst an einem KI-Chatbot mit, der Nutzer bei Fragen zur Software unterstützt und dabei anzeigt, woher er seine Antwort hat. Weil das Team klein ist, arbeitest du nicht nur an einem winzigen Teilstück, sondern bekommst schnell den Überblick über das ganze System. Das ist besonders lehrreich, weil du verstehst, wie ein komplettes Softwareprodukt von der Datenbank bis zur Benutzeroberfläche zusammenhängt.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen

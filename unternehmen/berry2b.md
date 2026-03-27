@@ -1,3 +1,8 @@
 berry2b ist ein 2019 gegründetes Startup aus Lüneburg (bei Hamburg), das eine App entwickelt, die Schulplaner-Funktionen mit einem Karrierenetzwerk für Schüler kombiniert. Über 80.000 Schüler nutzen die App, und mehr als 700 Unternehmen präsentieren dort ihre Ausbildungsangebote. Das Unternehmen hilft Firmen beim Azubi-Recruiting und veranstaltet Berufsorientierungs-Events.
 
 Als Informatikerin bei berry2b programmierst du direkt an der App, die über 80.000 Schüler auf ihrem Handy nutzen, zum Beispiel neue Funktionen, die Schülern passende Ausbildungsplätze vorschlagen, ähnlich wie ein Matching-Algorithmus bei einer Dating-App, nur eben für den Berufseinstieg. Du schreibst Code für iOS und Android, baust die Server-Seite, die alle Daten verarbeitet, und bindest neue Partnerunternehmen an die Plattform an. Weil das Team klein ist, kannst du morgens eine Idee haben und sie abends schon an echte Nutzer ausliefern. Das ist der große Unterschied zu einem Konzern: Du siehst sofort, was dein Code bewirkt.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen

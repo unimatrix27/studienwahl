@@ -1,3 +1,8 @@
 Vodafone Deutschland ist eines der größten Telekommunikationsunternehmen in Deutschland mit Sitz in Düsseldorf und über 15.000 Mitarbeitern. Das Unternehmen betreibt das D2-Mobilfunknetz sowie ein Kabelfasernetz und bietet Mobilfunk, 5G, Breitband-Internet, Festnetz und TV-Dienste an. Vodafone erreicht über 24 Millionen Haushalte mit Gigabit-Geschwindigkeit und hat mehr als 78 Millionen Anschlüsse in Deutschland.
 
 Als Informatikerin bei Vodafone arbeitest du in einer rund 1.500 Personen starken IT-Abteilung zum Beispiel an der Software, die das 5G-Netz steuert und dafür sorgt, dass Millionen Handys gleichzeitig schnelles Internet bekommen. Du programmierst vielleicht auch an Produkten, bei denen Alltagsgeräte wie Autos oder Stromzähler übers Mobilfunknetz Daten austauschen, oder du baust die Systeme, über die Kunden ihren Handyvertrag online verwalten und bezahlen. Andere Teams analysieren mit maschinellem Lernen riesige Datenmengen, um zum Beispiel vorherzusagen, wo das Netz bald überlastet sein wird. Das Spannende: Du arbeitest an Technologie, die im Alltag von über 78 Millionen Anschlüssen in Deutschland steckt, und lernst dabei modernste Netz- und Cloud-Technologien kennen.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **Hochschule Hannover (oder vergleichbar)** — Duales Studium Informatik, Standort Hannover

@@ -1,3 +1,8 @@
 yes!devs ist eine Softwareagentur mit Standorten in Hamburg und Valencia, die individuelle Software, Online-Shops und Schnittstellen entwickelt. Das Unternehmen hat in den letzten sieben Jahren über 260 Projekte umgesetzt und arbeitet mit Technologien wie Shopware, Shopify, WooCommerce und AWS. yes!devs bietet den gesamten Entwicklungszyklus von der Konzeption über die Umsetzung bis zum DevOps-Betrieb an.
 
 Als Informatikerin bei yes!devs baust du in wechselnden Projekten individuelle Software für Kunden, zum Beispiel Online-Shops mit Shopware oder Shopify, Web-Anwendungen mit React, Vue oder Laravel, und mobile Apps mit React Native. Du programmierst dabei alles von der Benutzeroberfläche bis zur Server-Logik und kümmerst dich auch darum, dass die fertige Software auf Amazons Cloud-Plattform zuverlässig läuft. Weil die Agentur über 260 Projekte umgesetzt hat, kommst du schnell mit sehr unterschiedlichen Technologien und Branchen in Berührung. Das ist besonders gut für den Einstieg, weil du in kurzer Zeit extrem viel lernst und herausfindest, welche Art von Softwareentwicklung dir am meisten Spaß macht.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen

@@ -1,3 +1,8 @@
 Studio Hamburg MCI ist ein Medientechnik-Dienstleister aus Hamburg mit rund 67 Mitarbeitern, gegründet 1977 als Teil der Studio Hamburg Gruppe. Das Unternehmen plant, baut und betreibt komplette Studios und IT-basierte Mediensysteme für Rundfunk, Sport-TV und Unternehmensfernsehen. MCI deckt den gesamten Lebenszyklus ab, von der Beratung über die Integration bis zum laufenden Betrieb und Support.
 
 Als Informatikerin bei Studio Hamburg MCI richtest du die komplette Technik ein, die hinter einer Fernsehproduktion steckt. Du konfigurierst zum Beispiel die Video-Server, auf denen Live-TV-Sendungen aufgezeichnet und ausgespielt werden, oder du baust die Netzwerke, über die Kamerabilder in Echtzeit in den Regieraum gestreamt werden. Manche Projekte umfassen auch Sport-TV-Übertragungen, bei denen alles perfekt funktionieren muss, weil Millionen Zuschauer live zuschauen. Das Spannende: Du arbeitest an der Schnittstelle von IT und Fernsehen, stehst manchmal in echten Studios zwischen Kameras und Scheinwerfern und sorgst dafür, dass das, was Zuschauer auf dem Bildschirm sehen, technisch überhaupt möglich ist.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen

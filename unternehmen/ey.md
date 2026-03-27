@@ -1,3 +1,8 @@
 EY (Ernst & Young) ist eine der vier größten Wirtschaftsprüfungs- und Beratungsgesellschaften weltweit (Big Four) mit deutschem Hauptsitz in Stuttgart und rund 6.000 Mitarbeitern an 21 Standorten in Deutschland. Das Unternehmen bietet Wirtschaftsprüfung, Steuerberatung, Transaktionsberatung und Managementberatung an. Global beschäftigt EY rund 393.000 Mitarbeiter in über 150 Ländern.
 
 Als Informatikerin im Technology-Bereich bei EY gehst du zu verschiedenen Unternehmen und hilfst ihnen, ihre IT besser aufzustellen. Konkret heißt das zum Beispiel: Ein großer Mittelständler will sein altes Warenwirtschaftssystem durch ein neues ersetzen, und du analysierst, welche Software passt, planst die Umstellung und setzt sie mit um. Oder du baust für einen Kunden eine Plattform, die seine Geschäftsdaten so aufbereitet, dass die Geschäftsleitung bessere Entscheidungen treffen kann. Dabei bekommst du schon früh Verantwortung und präsentierst deine Ergebnisse direkt vor dem Kunden. Das Interessante: Du lernst in kurzer Zeit viele verschiedene Branchen und Firmen von innen kennen und verstehst, wie Unternehmen wirklich funktionieren.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **Noch offen** — Duales Studium Wirtschaftsinformatik/Angew. Informatik, Standort Hamburg

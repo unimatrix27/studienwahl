@@ -1,3 +1,8 @@
 DERMALOG ist Deutschlands größter Biometrie-Hersteller mit Sitz in Hamburg, gegründet 1995. Das Unternehmen entwickelt Fingerabdruck-, Gesichts- und Iriserkennungssysteme, biometrische Ausweisdokumente und Grenzkontrollsysteme. Über 150 Behörden und mehr als 40 Banken in über 100 Ländern setzen die Technologie von DERMALOG ein.
 
 Als Informatikerin bei DERMALOG schreibst du in Java, Python oder C++ die Algorithmen, die anhand eines Fotos erkennen, ob eine Person die ist, die sie vorgibt zu sein, zum Beispiel bei der Passkontrolle am Flughafen. Du trainierst Modelle, die Fingerabdrücke in Sekundenbruchteilen gegen Millionen gespeicherter Abdrücke abgleichen, oder du entwickelst mit Flutter mobile Apps, die Bankkunden per Gesichtserkennung in ihr Konto lassen. Das Faszinierende: Deine Software läuft an echten Grenzen, in echten Banken und auf echten Ausweisen in über 100 Ländern, und du arbeitest an Technologie, die man sonst nur aus Filmen kennt.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **Nordakademie Elmshorn (oder vergleichbar)** — Duales Studium Angewandte Informatik, Standort Hamburg

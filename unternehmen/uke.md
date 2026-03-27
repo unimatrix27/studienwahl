@@ -1,3 +1,8 @@
 Das Universitätsklinikum Hamburg-Eppendorf (UKE) ist mit rund 16.100 Mitarbeitern eines der größten Krankenhäuser Europas und einer der größten Arbeitgeber Hamburgs. Als Lehrkrankenhaus der Universität Hamburg behandelt es jährlich etwa 572.000 Patienten und forscht in den Bereichen Neurowissenschaften, Onkologie, Herz-Kreislauf und Immunologie. Das UKE hat eine eigene IT-Abteilung, die klinische Informationssysteme und digitale Infrastruktur betreibt und weiterentwickelt.
 
 Als Informatikerin im über 200-köpfigen IT-Team des UKE sorgst du dafür, dass eines der größten Krankenhäuser Europas digital funktioniert. Du betreust zum Beispiel die elektronische Patientenakte, in der Ärzte und Pflegekräfte alle Befunde, Laborwerte und Behandlungen dokumentieren, oder du kümmerst dich um die Systeme, die auf der Intensivstation Patientendaten in Echtzeit überwachen. Andere Teams schützen die Krankenhausnetzwerke vor Hackerangriffen, denn ein Ausfall kann hier im schlimmsten Fall Menschenleben kosten. Das Besondere: Dein Code hilft dabei, dass Patienten besser versorgt werden, und du arbeitest in einer Umgebung, in der IT nicht Selbstzweck ist, sondern direkt etwas mit dem Leben von Menschen zu tun hat.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **Nordakademie Elmshorn** — Duales Studium Technische Informatik/IT-Engineering, Standort Hamburg

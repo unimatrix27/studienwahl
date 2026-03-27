@@ -1,3 +1,9 @@
 EnBW (Energie Baden-Württemberg) ist mit Sitz in Karlsruhe der drittgrößte Energieversorger Deutschlands und beschäftigt rund 27.000 Mitarbeiter. Das Unternehmen erzeugt und vertreibt Strom und Gas, betreibt Stromnetze und ist Deutschlands größter Anbieter von E-Ladeinfrastruktur. EnBW investiert stark in erneuerbare Energien, insbesondere in On- und Offshore-Windparks.
 
 Als Informatikerin bei EnBW baust du zum Beispiel Software, die Sensordaten von Windrädern auf dem Meer auswertet und vorhersagt, wann ein Bauteil getauscht werden muss, bevor es kaputtgeht. Oder du arbeitest im Sicherheitsteam, das die Stromnetze vor Hackerangriffen schützt, denn wenn jemand ein Stromnetz lahmlegt, haben Millionen Menschen keinen Strom mehr, das macht die Arbeit besonders verantwortungsvoll. Andere Teams programmieren die Apps und Systeme, über die Elektroauto-Fahrer ihre Ladesäule finden und bezahlen. Das Besondere: Du arbeitest an der Energiewende mit, also an einem der wichtigsten Themen unserer Zeit, und dein Code hat direkten Einfluss darauf, wie gut erneuerbare Energien funktionieren.
+
+---
+
+**Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+- **HAW Hamburg — Angewandte Informatik (dual) B.Sc.** — Partnerunternehmen
+- **Nordakademie Elmshorn (oder vergleichbar)** — Duales Studium Informatik, Standort Hamburg
