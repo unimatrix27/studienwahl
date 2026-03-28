@@ -27,7 +27,7 @@ export function buildPdf(options: BuildOptions): string {
   writeFileSync(typstPath, typstSource);
 
   // Copy photo if referenced
-  const photoMatch = typstSource.match(/image\("([^"]+)"\)/);
+  const photoMatch = typstSource.match(/image\("([^"]+)"/);
   if (photoMatch) {
     const photoName = photoMatch[1];
     const photoSrc = join(inputDir, photoName);
