@@ -6,3 +6,31 @@ Als Informatikerin beim MDC entwickelst du Software, die riesige Mengen an Genom
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.
+
+---
+
+## Links
+
+- **Karriereseite:** https://www.mdc-berlin.de/de/jobs
+- **HWR-Partnerseite:** https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/491-max-delbrueck-centrum-fuer-molekulare-medizin
+
+## Bewerbung
+
+- **Status:** Abgeschickt
+- **Bewerbung bei:** Max-Delbrück-Centrum (MDC)
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** 29.03.2026
+- **Anschreiben:** — 
+- **Notizen:** Freie Plätze 2026 laut HWR.
+
+## Anschreiben
+
+- **Empfänger:** Max-Delbrück-Centrum für Molekulare Medizin\\Almuth Galley\\Robert-Rössle-Str. 10\\13125 Berlin
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Informatik an der HWR Berlin ab WiSe 2026
+- **Anrede:** Sehr geehrte Frau Galley,
+- **Absatz:** ich möchte Informatik dort einsetzen, wo es um mehr geht als Geschäftsprozesse. Am MDC unterstützt Software direkt die Krebsforschung. Das ist ein Umfeld, in dem ich lernen will. Und nach meinem Aufenthalt in den USA freue ich mich auf ein Team aus über 60 Nationen.
+
+## TODOs
+
+- [x] MDC-Karriereportal prüfen und online bewerben

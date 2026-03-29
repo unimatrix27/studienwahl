@@ -1,0 +1,124 @@
+%---------------------------------------------------------------------------
+\documentclass%%
+%---------------------------------------------------------------------------
+  [DIV=14,fontsize=12pt%%
+%---------------------------------------------------------------------------
+   paper=a4,%%
+%---------------------------------------------------------------------------
+   headsepline=off,%%
+   parskip=half,%%
+%---------------------------------------------------------------------------
+   fromalign=right,%%
+   fromphone=on,%%
+   fromrule=aftername,%%
+   fromfax=off,%%
+   fromemail=on,%%
+   fromurl=off,%%
+   fromlogo=off,%%
+   addrfield=on,%%
+   backaddress=on,%%
+   subject=beforeopening,%%
+   locfield=narrow,%%
+   foldmarks=on,%%
+   numericaldate=off,%%
+   refline=narrow,%%
+   firstfoot=on,%%
+   draft=off%%
+]{scrlttr2}
+%---------------------------------------------------------------------------
+\usepackage[english, ngerman]{babel}
+\usepackage{url}
+\usepackage[no-math]{fontspec}
+\setmainfont[Ligatures=TeX]{TeX Gyre Termes}
+\setsansfont[Ligatures=TeX]{TeX Gyre Heros}
+\usepackage{microtype}
+
+\RequirePackage{marvosym}
+\RequirePackage{color}
+
+%---------------------------------------------------------------------------
+\setkomafont{fromname}{\sffamily\color{mygray}\LARGE}
+\setkomafont{subject}{\bfseries}
+\setkomafont{backaddress}{\sffamily\small}
+\setkomafont{fromaddress}{\small\sffamily\mdseries\color{mygray}}
+\setkomafont{pagefoot}{\sffamily}
+%---------------------------------------------------------------------------
+\begin{document}
+%---------------------------------------------------------------------------
+\LoadLetterOption{DIN}
+\makeatletter
+\@setplength{sigbeforevskip}{17mm}
+\@setplength{firstheadvpos}{17mm}
+\@setplength{firstfootvpos}{275mm}
+\@setplength{firstheadwidth}{\paperwidth}
+\@setplength{locwidth}{70mm}
+\@setplength{locvpos}{65mm}
+\ifdim \useplength{toaddrhpos}>\z@
+  \@addtoplength[-2]{firstheadwidth}{\useplength{toaddrhpos}}
+\else
+  \@addtoplength[2]{firstheadwidth}{\useplength{toaddrhpos}}
+\fi
+\@setplength{foldmarkhpos}{6.5mm}
+\makeatother
+%---------------------------------------------------------------------------
+\definecolor{mygray}{gray}{.55}
+\definecolor{myblue}{rgb}{0.25,0.45,0.75}
+%---------------------------------------------------------------------------
+
+% Absender
+\setkomavar{fromname}{Merle Stücker}
+\setkomavar{fromaddress}{Neptunstr. 20a\\85368 Moosburg a.d. Isar}
+\setkomavar{fromphone}[\Mobilefone~]{+49 159 01458291}
+\setkomavar{fromemail}[\Letter~]{merle.stuecker@gmail.com}
+\setkomavar{backaddress}{Merle Stücker, Neptunstr. 20a, 85368 Moosburg a.d. Isar}
+\setkomafont{backaddress}{\fontsize{8}{8}}
+
+\setkomavar{backaddressseparator}{ - }
+\setkomavar{signature}{Merle Stücker}
+\renewcommand*{\raggedsignature}{\raggedright}
+\setkomavar{location}{\raggedleft}
+
+\renewcommand{\enclname}{Anlagen}
+\setkomavar{enclseparator}{: }
+%---------------------------------------------------------------------------
+\pagestyle{plain}
+\pagenumbering{arabic}
+%---------------------------------------------------------------------------
+\firstfoot{}%
+%---------------------------------------------------------------------------
+\setkomavar{date}{den \today}
+\setkomavar{place}{Moosburg}
+%---------------------------------------------------------------------------
+
+\begin{letter}
+{
+etomer GmbH\\Crispin Hartmann\\Winklerstr. 27\\14193 Berlin
+}
+
+\setkomavar{subject}{
+Bewerbung um einen Platz im Dualen Studium Informatik an der HWR Berlin ab WiSe 2026
+}
+
+\opening{Sehr geehrter Herr Hartmann,}
+
+in fünf Jahren will ich IT-Systeme eines Unternehmens durchschauen und verbessern können. Deshalb bewerbe ich mich bei etomer — weil ich hier von Tag eins mit echten Kundeninfrastrukturen arbeite.
+
+Im Sommer schließe ich mein Abitur am Karl-Ritter-von-Frisch-Gymnasium ab.
+Mir liegt das eigenständige Lösen von Problemen mehr als das Auswendiglernen in der Schule.
+An der Informatik fasziniert mich das direkte Feedback:
+Ob eine Logik funktioniert, zeigt sich sofort beim Ausführen des Codes.
+Diese Herausforderung, ein System bis zur Fehlerfreiheit zu entwickeln,
+bietet mir genau den Anwendungsbezug, den ich im Dualen Studium suche.
+
+Dass ich die nötige Ausdauer besitze, habe ich während meines Auslandsjahres in den USA bewiesen.
+Mich in einer neuen Umgebung zu behaupten, in einer Band mitzuspielen und neue Instrumente zu lernen,
+hat mir gezeigt, wie viel man mit Durchhaltevermögen erreicht.
+Diese Hartnäckigkeit möchte ich nun bei Ihnen einbringen.
+
+\closing{Mit freundlichen Grüßen}
+%---------------------------------------------------------------------------
+\encl{Lebenslauf, Schulzeugnisse}
+%---------------------------------------------------------------------------
+\end{letter}
+%---------------------------------------------------------------------------
+\end{document}

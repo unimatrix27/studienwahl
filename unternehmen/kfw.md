@@ -6,3 +6,31 @@ Als Informatikerin in der rund 1.000 Personen starken IT-Abteilung der KfW baust
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.
+
+---
+
+## Links
+
+- **Karriereseite:** https://www.kfw.de/Über-die-KfW/Karriere/
+- **HWR-Partnerseite:** https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/487-kfw-bankengruppe
+
+## Bewerbung
+
+- **Status:** Abgeschickt
+- **Bewerbung bei:** KfW Bankengruppe
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** 29.03.2026
+- **Anschreiben:** —
+- **Notizen:** Freie Plätze 2026 laut HWR.
+
+## Anschreiben
+
+- **Empfänger:** KfW Bankengruppe\\Personalabteilung\\Palmengartenstraße 5-9\\60325 Frankfurt am Main
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Informatik an der HWR Berlin ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** die KfW fördert mit ihrer Software Projekte von der Energiewende bis zur Bildungsfinanzierung. Dass mein Code dort nicht nur funktionieren muss, sondern direkt etwas Sinnvolles ermöglicht, ist für mich der Grund, mich hier zu bewerben.
+
+## TODOs
+
+- [x] KfW-Karriereportal prüfen und online bewerben

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bewerbungs-Tracker</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f8fafc; color: #1e293b; padding: 2rem; max-width: 1400px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin-bottom: .5rem; }
+  h2 { font-size: 1.2rem; margin: 2rem 0 .75rem; }
+  table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+  th { background: #1e293b; color: #fff; text-align: left; padding: .75rem 1rem; font-weight: 600; font-size: .85rem; }
+  td { padding: .75rem 1rem; border-bottom: 1px solid #e2e8f0; font-size: .9rem; vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #f1f5f9; }
+  a { color: #2563eb; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .badge { display: inline-block; padding: .2rem .6rem; border-radius: 9999px; color: #fff; font-size: .8rem; font-weight: 600; }
+  .links a { display: inline-block; background: #e0e7ff; color: #3730a3; padding: .15rem .5rem; border-radius: 4px; font-size: .75rem; margin: .1rem .2rem; }
+  .links a:hover { background: #c7d2fe; text-decoration: none; }
+  .todos { list-style: none; padding: 0; margin: 0; }
+  .todos li { padding: .15rem 0; font-size: .85rem; }
+  .todos li::before { content: "\2610 "; color: #f59e0b; }
+  .todos li.done { color: #94a3b8; text-decoration: line-through; }
+  .todos li.done::before { content: "\2611 "; color: #22c55e; }
+  .todo-list { background: #fff; border-radius: 8px; padding: 1.25rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,.1); margin-bottom: 2rem; }
+  .todo-list ul { list-style: none; padding: 0; margin: 0; }
+  .todo-list li { padding: .4rem 0; border-bottom: 1px solid #f1f5f9; font-size: .9rem; }
+  .todo-list li:last-child { border-bottom: none; }
+  .todo-list li::before { content: "\2610 "; color: #f59e0b; }
+  .empty { color: #94a3b8; font-style: italic; text-align: center; padding: 2rem; }
+  .no-todos { color: #94a3b8; font-style: italic; }
+</style>
+</head>
+<body>
+<h1>Bewerbungs-Tracker</h1>
+<h2>Offene TODOs</h2>
+<div class="todo-list"><p class="no-todos">Keine offenen TODOs</p></div>
+<h2>Bewerbungen</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Unternehmen</th>
+      <th>Status</th>
+      <th>Studienstart</th>
+      <th>Bewerbung</th>
+      <th>Frist</th>
+      <th>Links</th>
+      <th>TODOs</th>
+      <th>Notizen</th>
+    </tr>
+  </thead>
+  <tbody>
+        <tr>
+          <td><a href="unternehmen/biotronik.md">Biotronik</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>29.03.2026</td>
+          <td>24.04.2026</td>
+          <td class="links"><a href="https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0001096615P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&career_job_req_id=61992&selected_lang=de_DE&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Europe/Berlin&_s.crb=FfyZw0ceMPjaKnoQ8IxhbVHAddPFjPa1GRiyMH7D3Yc%3d" title="Stellenausschreibung">Stellenausschreibung</a> <a href="https://www.biotronik.com/de-de/karriere-bei-biotronik" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/470-biotronik-se-co-kg" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">Online-Bewerbung über BIOTRONIK-Karriereportal einreichen (Frist: 24.04.2026!)</li></ul></td>
+          <td>Freie Plätze 2026 bestätigt. Vergütung 1.200–1.350 €/Monat + Bonus (Tarifvertrag), 30 Tage Urlaub, 35h-Woche, Buddy-System, Übernahmemöglichkeit.</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/boc-information-technologies.md">Boc Information Technologies</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>28.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://career.boc-group.com/de/bewerbung-als-student/" title="Online-Bewerbung">Online-Bewerbung</a> <a href="https://www.max-talent.de/companyProfile/636ce3388859c4007058d144" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/471-boc-information-technologies-consulting-gmbh" title="HWR-Partnerseite">HWR-Partnerseite</a> <a href="https://www.boc-group.com" title="Website">Website</a> </td>
+          <td><ul class="todos"><li class="done">Online bei BOC bewerben: https://career.boc-group.com/de/bewerbung-als-student/</li></ul></td>
+          <td>Freie Plätze laut HWR-Partnerseite 2026</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/communi5.md">Communi5</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>29.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://communi5.com/en/career/" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/503-teles-ag-informationstechnologien" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">Per Mail bei Communi5 bewerben/nachfragen: HumanRessources@communi5.com (Andre Barnitzke)</li></ul></td>
+          <td>Freie Plätze 2026 laut HWR. Läuft unter TELES AG auf HWR-Seite.</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/data-experts.md">Data Experts</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>29.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://www.data-experts.de/karriere/studium/" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/477-data-experts-gmbh" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">Bei data experts bewerben: personalbuero@data-experts.de (Nicole Kohn)</li></ul></td>
+          <td>Freie Plätze 2026 laut HWR. 55 Absolventen bisher, aktuell 27 Studierende.</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/etomer.md">Etomer</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026 (01.10.2026)</td>
+          <td>29.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://etomer.com/portfolio-item/duales-studium-zum-bachelor-of-science-fuer-informatik-m-w-d/" title="Stellenausschreibung">Stellenausschreibung</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/480-etomer-gmbh" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">Per Mail bei etomer bewerben: info@etomer.com (Crispin Hartmann) — PDF-Bewerbung</li></ul></td>
+          <td>Konkrete Ausschreibung für 01.10.2026 online! Unbefristete Übernahme bei erfolgreichem Abschluss zugesichert. Bewerbung: warum IT spannend, berufliche Perspektive, Lebenslauf + Zeugnisse.</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/kfw.md">Kfw</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>29.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://www.kfw.de/Über-die-KfW/Karriere/" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/487-kfw-bankengruppe" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">KfW-Karriereportal prüfen und online bewerben</li></ul></td>
+          <td>Freie Plätze 2026 laut HWR.</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/max-delbrueck-centrum.md">Max Delbrueck Centrum</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>29.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://www.mdc-berlin.de/de/jobs" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/491-max-delbrueck-centrum-fuer-molekulare-medizin" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">MDC-Karriereportal prüfen und online bewerben</li></ul></td>
+          <td>Freie Plätze 2026 laut HWR.</td>
+        </tr>
+        <tr>
+          <td><a href="unternehmen/projektron.md">Projektron</a></td>
+          <td><span class="badge" style="background:#3b82f6">Abgeschickt</span></td>
+          <td>WiSe 2026</td>
+          <td>29.03.2026</td>
+          <td>—</td>
+          <td class="links"><a href="https://www.projektron.de/karriere/" title="Karriereseite">Karriereseite</a> <a href="https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/901-projektron-gmbh" title="HWR-Partnerseite">HWR-Partnerseite</a> </td>
+          <td><ul class="todos"><li class="done">Online bei Projektron bewerben: https://www.projektron.de/karriere/ (job@projektron.de)</li></ul></td>
+          <td>Freie Plätze 2026 laut HWR.</td>
+        </tr>
+  </tbody>
+</table>
+</body>
+</html>

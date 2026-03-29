@@ -6,3 +6,38 @@ Als Informatikerin bei Projektron entwickelst du direkt an einem Produkt, das Ta
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.
+
+---
+
+## Links
+
+- **Karriereseite:** https://www.projektron.de/karriere/
+- **HWR-Partnerseite:** https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/901-projektron-gmbh
+
+## Kontakt
+
+- **Ansprechpartnerinnen:** Ronja März / Francisco Josue Artaza
+- **Tel.:** +49 30 3474764 129 (März) / +49 30 3474764 132 (Artaza)
+- **E-Mail:** job@projektron.de
+- **Adresse:** Charlottenstr. 68, 10117 Berlin
+
+## Bewerbung
+
+- **Status:** Abgeschickt
+- **Bewerbung bei:** Projektron online (Karriereportal)
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** 29.03.2026
+- **Anschreiben:** —
+- **Notizen:** Freie Plätze 2026 laut HWR.
+
+## Anschreiben
+
+- **Empfänger:** Projektron GmbH\\Mareike Sturzebecher\\Charlottenstr. 68\\10117 Berlin
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Informatik an der HWR Berlin ab WiSe 2026
+- **Anrede:** Sehr geehrte Frau Sturzebecher,
+- **Absatz:** ich bewerbe mich bei Projektron, weil ich in einem Unternehmen lernen will, das sein eigenes Produkt entwickelt und nicht nur Auftragsarbeit für andere macht. So kann ich über drei Jahre wirklich verstehen, wie eine Software wächst.
+
+## TODOs
+
+- [x] Online bei Projektron bewerben: https://www.projektron.de/karriere/ (job@projektron.de)

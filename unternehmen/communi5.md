@@ -6,3 +6,38 @@ Als Informatikerin bei Communi5 arbeitest du direkt an der Carrier-Grade-Kommuni
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **HWR Berlin (Hochschule für Wirtschaft und Recht)** — Duales Studium Informatik B.Sc.
+
+---
+
+## Links
+
+- **Karriereseite:** https://communi5.com/en/career/
+- **HWR-Partnerseite:** https://www.hwr-berlin.de/studium/studiengaenge/unternehmensdetail/503-teles-ag-informationstechnologien
+
+## Kontakt
+
+- **Ansprechpartner:** Andre Barnitzke
+- **Tel.:** +49 30 39928 258
+- **E-Mail:** HumanRessources@communi5.com
+- **Adresse:** Ordensmeisterstr. 15-16, 12099 Berlin
+
+## Bewerbung
+
+- **Status:** Abgeschickt
+- **Bewerbung bei:** Communi5 direkt per Mail
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** 29.03.2026
+- **Anschreiben:** —
+- **Notizen:** Freie Plätze 2026 laut HWR. Läuft unter TELES AG auf HWR-Seite.
+
+## Anschreiben
+
+- **Empfänger:** Communi5 Technologies GmbH\\Andre Barnitzke\\Ordensmeisterstr. 15-16\\12099 Berlin
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Informatik an der HWR Berlin ab WiSe 2026
+- **Anrede:** Sehr geehrter Herr Barnitzke,
+- **Absatz:** ich suche für mein Duales Studium bewusst ein kleineres Unternehmen, in dem ich von Anfang an nah am Produkt mitarbeite statt in einem Großkonzern unterzugehen. Dass bei Communi5 echte Kommunikationsinfrastruktur entsteht, auf die sich Telekomanbieter verlassen, macht es für mich besonders spannend.
+
+## TODOs
+
+- [x] Per Mail bei Communi5 bewerben/nachfragen: HumanRessources@communi5.com (Andre Barnitzke)
