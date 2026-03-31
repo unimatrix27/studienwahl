@@ -6,3 +6,30 @@ Als Informatikerin bei DERMALOG schreibst du in Java, Python oder C++ die Algori
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn (oder vergleichbar)** — Duales Studium Angewandte Informatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Website:** https://www.dermalog.com
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** DERMALOG Identification Systems GmbH
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** DERMALOG Identification Systems GmbH\\Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** Biometrie-Algorithmen, die an echten Grenzen und in echten Banken in über 100 Ländern laufen — das klingt nach Technologie, die man sonst nur aus Filmen kennt. Genau deshalb will ich bei DERMALOG lernen, wie man solche Systeme baut.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

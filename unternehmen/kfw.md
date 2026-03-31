@@ -16,13 +16,13 @@ Als Informatikerin in der rund 1.000 Personen starken IT-Abteilung der KfW baust
 
 ## Bewerbung
 
-- **Status:** Abgeschickt
+- **Status:** Einstellungstest
 - **Bewerbung bei:** KfW Bankengruppe
 - **Studienstart:** WiSe 2026
 - **Frist:** —
 - **Datum Bewerbung:** 29.03.2026
 - **Anschreiben:** —
-- **Notizen:** Freie Plätze 2026 laut HWR.
+- **Notizen:** Bewerbernr. A000305024, Ausschreibung V000010358. Einladung zum Online-Einstellungstest (CYQUEST), 60-90 Min., Frist 7 Tage ab 30.03.2026 (bis 06.04.2026). Link: https://cyque.st/mz75hkox
 
 ## Anschreiben
 
@@ -34,3 +34,4 @@ Als Informatikerin in der rund 1.000 Personen starken IT-Abteilung der KfW baust
 ## TODOs
 
 - [x] KfW-Karriereportal prüfen und online bewerben
+- [ ] Online-Einstellungstest absolvieren (Frist: 06.04.2026!)

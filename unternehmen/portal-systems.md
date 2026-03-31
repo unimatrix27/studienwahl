@@ -6,3 +6,30 @@ Als Informatikerin bei Portal Systems entwickelst du unter der Marke Shareflex s
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik + Wirtschaftsinformatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Website:** https://www.portal.de
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** Portal Systems AG
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** Portal Systems AG\\Burchardstraße 14\\20095 Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** Dokumentenmanagement klingt erstmal trocken, aber Workflows zu bauen, die Verträge automatisch klassifizieren, an die richtigen Freigeber weiterleiten und revisionssicher archivieren, ist technisch richtig interessant. Bei Portal Systems würde ich das mit C#, TypeScript und der Microsoft-Cloud umsetzen.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

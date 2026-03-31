@@ -7,3 +7,30 @@ Als Informatikerin bei assono entwickelst du zum Beispiel einen KI-gestützten C
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik, Standort Schwentinental
 - **DHSH (Duale Hochschule Schleswig-Holstein)** — Duales Studium Software Engineering / Angew. Informatik, Standort Kiel/Schwentinental
+
+---
+
+## Links
+
+- **Website:** https://www.assono.de
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** assono GmbH
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** assono GmbH\\Schwentinental
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** bei assono würde ich KI-Chatbots und Webanwendungen nicht nur theoretisch kennenlernen, sondern direkt für echte Kunden bauen. Dass ein kleines Team individuelle Lösungen entwickelt statt Standardsoftware von der Stange, reizt mich besonders.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

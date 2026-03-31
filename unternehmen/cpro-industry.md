@@ -6,3 +6,30 @@ Als Informatikerin bei Cpro Industry arbeitest du zum Beispiel daran, einem Masc
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Website:** https://www.cpro-ips.com
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** Cpro Industry Projects & Solutions GmbH
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** Cpro Industry Projects & Solutions GmbH\\Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** bei Cpro Industry würde ich direkt bei Kunden aus Maschinenbau oder Industrie an SAP-Einführungen mitarbeiten und dabei lernen, wie echte Geschäftsprozesse in Software abgebildet werden. Die Mischung aus Technik und Kundenkontakt spricht mich an.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

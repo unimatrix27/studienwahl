@@ -6,3 +6,31 @@ Als Informatikerin bei der TK entwickelst du zum Beispiel an der TK-App mit, üb
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik + Technische Informatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Karriereseite:** https://www.tk.de/karriere
+- **Website:** https://www.tk.de
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** Techniker Krankenkasse
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** Techniker Krankenkasse\\Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** die TK-App nutzen fast 12 Millionen Menschen täglich — und die IT dahinter ist eines der größten Java-Systeme in Deutschland. An digitalen Produkten mitzubauen, die so vielen Menschen im Alltag helfen, ist für mich die beste Motivation.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

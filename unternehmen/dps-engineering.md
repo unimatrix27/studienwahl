@@ -6,3 +6,30 @@ Als Informatikerin bei DPS Engineering entwickelst du zum Beispiel die Software,
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik + Wirtschaftsinformatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Website:** https://www.dps-engineering.de
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** DPS Engineering GmbH
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** DPS Engineering GmbH\\Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** 60.000 Geldautomaten laufen mit DPS-Software — das ist eine Größenordnung, die mich fasziniert. Vom Bildschirmdialog über die Kartenleser-Ansteuerung bis zur verschlüsselten Kommunikation mit dem Rechenzentrum steckt in einem einzelnen Automaten erstaunlich viel Informatik.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

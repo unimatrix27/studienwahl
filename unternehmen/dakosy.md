@@ -6,3 +6,30 @@ Als Informatikerin bei DAKOSY entwickelst du zum Beispiel die Software, über di
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik + Wirtschaftsinformatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Website:** https://www.dakosy.de
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** DAKOSY Datenkommunikationssystem AG
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** DAKOSY Datenkommunikationssystem AG\\Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** dass der gesamte Hamburger Hafen über DAKOSY-Software kommuniziert, finde ich beeindruckend. Die Vorstellung, an Systemen mitzuarbeiten, über die tausende Logistik-Nachrichten pro Stunde laufen, motiviert mich, weil ich dort sehe, wie Informatik konkret einen riesigen Betrieb am Laufen hält.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben

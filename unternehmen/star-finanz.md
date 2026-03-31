@@ -6,3 +6,30 @@ Als Informatikerin bei Star Finanz entwickelst du Banking-Apps, die Millionen vo
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik + Wirtschaftsinformatik, Standort Hamburg
+
+---
+
+## Links
+
+- **Website:** https://www.starfinanz.de
+
+## Bewerbung
+
+- **Status:** Offen
+- **Bewerbung bei:** Star Finanz GmbH
+- **Studienstart:** WiSe 2026
+- **Frist:** —
+- **Datum Bewerbung:** —
+- **Anschreiben:** —
+- **Notizen:** Nordakademie-Partner.
+
+## Anschreiben
+
+- **Empfänger:** Star Finanz GmbH\\Hamburg
+- **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
+- **Anrede:** Sehr geehrte Damen und Herren,
+- **Absatz:** Banking-Apps, die Millionen Menschen täglich nutzen — bei Star Finanz würde ich an Software arbeiten, die mir selbst aus dem Alltag vertraut ist. Besonders spannend finde ich, dass Sicherheit dort im Zentrum steht, von Verschlüsselung bis Zwei-Faktor-Authentifizierung.
+
+## TODOs
+
+- [ ] Karriereseite prüfen und bewerben
