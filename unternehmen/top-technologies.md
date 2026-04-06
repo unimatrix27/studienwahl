@@ -5,6 +5,7 @@ Als Informatikerin bei TOP TECHNOLOGIES arbeitest du als IT-Beraterin direkt bei
 ---
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik + Wirtschaftsinformatik, Standort Halstenbek
 
 ---
@@ -25,10 +26,10 @@ Als Informatikerin bei TOP TECHNOLOGIES arbeitest du als IT-Beraterin direkt bei
 
 ## Anschreiben
 
-- **Empfänger:** TOP TECHNOLOGIES CONSULTING GmbH\\Halstenbek
+- **Empfänger:** TOP TECHNOLOGIES CONSULTING GmbH\\Rathausquartier 9\\25469 Halstenbek
 - **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
 - **Anrede:** Sehr geehrte Damen und Herren,
-- **Absatz:** als IT-Beraterin direkt bei Kunden aus der Finanz- und Versicherungsbranche zu arbeiten und deren IT-Landschaften zu modernisieren — das wäre ein Einstieg, bei dem ich von Anfang an verschiedene Unternehmen und Technologien kennenlerne, statt nur in einem System zu arbeiten.
+- **Absatz:** ich möchte mein Studium dort absolvieren, wo ich Einblicke in verschiedene IT-Landschaften erhalte und lerne, wie man Software für unterschiedliche Anforderungen optimiert. Mich reizt an Top Technologies Consulting die Perspektive der Beratung, bei der man nicht nur an einem einzelnen Produkt arbeitet, sondern Lösungen für wechselnde Projekte entwickelt.
 
 ## TODOs
 

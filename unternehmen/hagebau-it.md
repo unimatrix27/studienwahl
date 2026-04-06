@@ -5,6 +5,7 @@ Als Informatikerin bei der hagebau IT arbeitest du an den Systemen, die über 1.
 ---
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik, Wirtschaftsinformatik, Standort Soltau
 
 ---
@@ -25,10 +26,10 @@ Als Informatikerin bei der hagebau IT arbeitest du an den Systemen, die über 1.
 
 ## Anschreiben
 
-- **Empfänger:** hagebau IT GmbH\\Soltau
+- **Empfänger:** hagebau IT GmbH\\Celler Str. 47\\29614 Soltau
 - **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
-- **Anrede:** Sehr geehrte Damen und Herren,
-- **Absatz:** über 1.500 Standorte mit Warenwirtschaft, Kassensystemen und Logistik versorgen — bei der hagebau IT würde ich sehen, wie Software im großen Maßstab hunderte eigenständige Händler koordiniert. Diese Komplexität reizt mich.
+- **Anrede:** Sehr geehrter Herr Brinker,
+- **Absatz:** ich möchte mein Studium dort absolvieren, wo Software dafür sorgt, dass eine riesige Menge an Waren zur richtigen Zeit am richtigen Ort ist. Mich reizt an hagebau IT, dass die Programme den Einkauf und die Logistik für hunderte Märkte im Hintergrund steuern.
 
 ## TODOs
 

@@ -5,6 +5,7 @@ Als Informatikerin bei Fette Compacting entwickelst du Software, die direkt in d
 ---
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik, Wirtschaftsinformatik, Technische Informatik, Standort Schwarzenbek
 
 ---
@@ -25,10 +26,10 @@ Als Informatikerin bei Fette Compacting entwickelst du Software, die direkt in d
 
 ## Anschreiben
 
-- **Empfänger:** Fette Compacting GmbH\\Schwarzenbek
+- **Empfänger:** Fette Compacting GmbH\\Grabauer Straße 24\\21493 Schwarzenbek
 - **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
-- **Anrede:** Sehr geehrte Damen und Herren,
-- **Absatz:** Software, die direkt in Tablettenpressen läuft und den Pressvorgang in Echtzeit steuert — das ist Informatik, bei der man sofort sieht, was der Code bewirkt. Mich reizt die Verbindung aus Maschinenbau und IT, besonders in einer so regulierten Branche wie der Pharmaproduktion.
+- **Anrede:** Sehr geehrte Frau Brüggmann,
+- **Absatz:** ich möchte mein Studium dort absolvieren, wo Software eine direkte Verantwortung für die Versorgung von Menschen übernimmt. Mich reizt an Fette Compacting, dass die Programmierung am Ende die präzise Herstellung von Medikamenten ermöglicht. Ich möchte von Grund auf lernen, wie man Systeme entwickelt, die weltweit in der Pharmaproduktion eingesetzt werden und absolut zuverlässig funktionieren müssen.
 
 ## TODOs
 

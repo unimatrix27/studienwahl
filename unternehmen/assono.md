@@ -26,7 +26,7 @@ Als Informatikerin bei assono entwickelst du zum Beispiel einen KI-gestützten C
 
 ## Anschreiben
 
-- **Empfänger:** assono GmbH\\Schwentinental
+- **Empfänger:** assono GmbH\\Bornkampsweg 58\\22761 Hamburg
 - **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
 - **Anrede:** Sehr geehrte Damen und Herren,
 - **Absatz:** bei assono würde ich KI-Chatbots und Webanwendungen nicht nur theoretisch kennenlernen, sondern direkt für echte Kunden bauen. Dass ein kleines Team individuelle Lösungen entwickelt statt Standardsoftware von der Stange, reizt mich besonders.

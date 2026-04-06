@@ -5,6 +5,7 @@ Als Informatikerin bei HanseMerkur programmierst du in einem rund 200-köpfigen 
 ---
 
 **Verknüpfte Studiengänge** (siehe [studiengaenge.md](../studiengaenge.md)):
+
 - **Nordakademie Elmshorn** — Duales Studium Angewandte Informatik, Standort Hamburg
 
 ---
@@ -25,10 +26,10 @@ Als Informatikerin bei HanseMerkur programmierst du in einem rund 200-köpfigen 
 
 ## Anschreiben
 
-- **Empfänger:** HanseMerkur Versicherungsgruppe\\Hamburg
+- **Empfänger:** HanseMerkur Versicherungsgruppe\\Siegfried-Wedells-Platz 1\\20354 Hamburg
 - **Betreff:** Bewerbung um einen Platz im Dualen Studium Angewandte Informatik an der Nordakademie ab WiSe 2026
-- **Anrede:** Sehr geehrte Damen und Herren,
-- **Absatz:** dass HanseMerkur ihre komplette IT selbst baut statt einzukaufen, bedeutet, dass ich dort wirklich an den Kernsystemen mitarbeiten kann und verstehe, wie ein Versicherungsunternehmen technisch von innen funktioniert. Das ist genau die Art von Tiefgang, die ich im dualen Studium suche.
+- **Anrede:** Sehr geehrter Herr Buchholz,
+- **Absatz:** an der HanseMerkur reizt mich besonders, dass ich im Laufe des Studiums mehrere Arbeitsbereiche kennenlernen kann und von vorne herein Einblick in die echte Systementwicklung habe. So kann ich verstehen, wie eine Versicherung von innen funktioniert.
 
 ## TODOs
 
